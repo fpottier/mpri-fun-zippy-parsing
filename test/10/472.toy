@@ -1,0 +1,20 @@
+for x0 from
+  725
+to
+  725 + 4
+sum
+  let x1 =
+    x0
+  in
+  let x2 =
+    x0
+  in
+  (for x3 from x0 to x0 + 3 sum x1) / x0 +
+    (
+      for x3 from
+        x0
+      to
+        x0 + 1
+      sum
+        let x4 = fun (x4, x5) -> x5 in let x5 = x4 in 246
+    )

@@ -1,0 +1,8 @@
+let x0 =
+  (let x0 = 906 in x0) * (let x0 = 166 in x0)
+in
+let x1 =
+  (for x1 from x0 to x0 + 2 sum x0) +
+    (x0 - (let x1 = fun (x0) -> 418 in x0))
+in
+for x2 from 26 to 26 + 2 sum 535

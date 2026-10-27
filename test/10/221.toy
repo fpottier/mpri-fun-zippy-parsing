@@ -1,0 +1,6 @@
+(
+  let x0 =
+    fun (x0, x1) -> 1
+  in
+  x0(let x1 = let x1 = 101 in x1 in x1, 438)
+) / (let x0 = fun (x0) -> let x1 = x0 / x0 in x0 in 23 * 1015)

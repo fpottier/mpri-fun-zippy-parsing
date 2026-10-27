@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = fun (x0) -> 801 in x0(899)
+  in
+  477 * 802 * (for x1 from 50 to 50 + 3 sum let x2 = x0 in x2)
+) + 967 / 989 * 250

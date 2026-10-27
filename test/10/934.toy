@@ -1,0 +1,13 @@
+for x0 from
+  571
+to
+  571 + 0
+sum
+  x0 +
+    x0 +
+    (
+      let x1 =
+        let x1 = fun (x1, x2) -> x1 in 762 / x0
+      in
+      let x2 = (let x2 = x0 in x1) * x1 in x2
+    )

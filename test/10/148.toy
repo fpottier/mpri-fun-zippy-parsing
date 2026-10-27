@@ -1,0 +1,10 @@
+(542 + (let x0 = 47 in x0)) *
+  (
+    580 -
+      (
+        let x0 =
+          (let x0 = fun (x0, x1) -> x0 in let x1 = 883 in x1) * 138
+        in
+        let x1 = 62 in x1
+      )
+  )

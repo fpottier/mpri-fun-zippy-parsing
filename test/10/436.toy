@@ -1,0 +1,6 @@
+let x0 =
+  let x0 = let x0 = 280 in 725 in let x1 = fun (x1) -> x0 in x0
+in
+259 /
+  x0 /
+  (let x1 = let x1 = 113 in let x2 = fun (x0) -> 583 in x1 in x0)

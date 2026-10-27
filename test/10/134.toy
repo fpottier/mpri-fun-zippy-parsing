@@ -1,0 +1,7 @@
+(let x0 = (let x0 = 670 in 63) + 252 in 1015 * x0) -
+  (
+    let x0 =
+      let x0 = let x0 = fun (x0, x1) -> 197 in 7 - 178 in x0
+    in
+    let x1 = 448 in x0
+  )

@@ -1,0 +1,10 @@
+(let x0 = 367 in 521) *
+  (
+    let x0 =
+      let x0 =
+        for x0 from 160 to 160 + 3 sum 765 * 847
+      in
+      let x1 = x0 * 1009 in x0
+    in
+    let x1 = x0 in let x2 = fun (x0) -> 299 in x1
+  )

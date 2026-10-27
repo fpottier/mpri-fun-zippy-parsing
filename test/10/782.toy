@@ -1,0 +1,9 @@
+(let x0 = fun (x0) -> 464 in 811) -
+  (
+    for x0 from
+      143
+    to
+      143 + 3
+    sum
+      let x1 = fun (x1) -> x1 in x1(x1(x1(x0)) / (let x2 = 412 in x2))
+  )

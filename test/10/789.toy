@@ -1,0 +1,7 @@
+let x0 =
+  351
+in
+let x1 =
+  let x1 = let x1 = 193 / x0 in x0 / (x1 / x0) in x0
+in
+let x2 = let x2 = let x2 = x1 in x1 in x2 in x1

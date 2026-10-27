@@ -1,0 +1,13 @@
+let x0 =
+  247
+in
+((let x1 = 74 in x0) - x0) /
+  (
+    let x1 =
+      let x1 =
+        let x1 = x0 in let x2 = for x2 from x0 to x0 + 3 sum x2 in x2
+      in
+      x1
+    in
+    for x2 from x1 to x1 + 4 sum x2
+  )

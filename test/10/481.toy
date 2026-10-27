@@ -1,0 +1,14 @@
+let x0 =
+  (
+    let x0 =
+      for x0 from
+        517
+      to
+        517 + 1
+      sum
+        let x1 = 876 in let x2 = let x2 = x1 in x1 in x1 - 869
+    in
+    x0 / (let x1 = fun (x0) -> 35 in 288)
+  ) * 803
+in
+x0

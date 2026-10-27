@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    let x0 =
+      935 * 205
+    in
+    let x1 = fun (x1) -> x0 in x0 - (605 - 339)
+  in
+  for x1 from x0 to x0 + 2 sum x0
+in
+let x1 = 107 in x0

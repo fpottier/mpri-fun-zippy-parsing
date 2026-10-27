@@ -1,0 +1,4 @@
+let x0 =
+  for x0 from 483 to 483 + 4 sum let x1 = x0 * 664 in x0
+in
+let x1 = fun (x1) -> 273 + x1 in let x2 = x0 / x0 / x0 in x0

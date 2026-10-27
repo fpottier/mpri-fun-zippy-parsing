@@ -1,0 +1,5 @@
+(let x0 = let x0 = 418 in x0 in 847 + 828) *
+  (
+    (let x0 = fun (x0) -> 951 in 992) *
+      (let x0 = fun (x0, x1) -> 89 in 889)
+  ) / 114 + (let x0 = fun (x0) -> 613 in 828)

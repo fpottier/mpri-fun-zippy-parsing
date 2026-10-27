@@ -1,0 +1,10 @@
+(let x0 = 855 / (let x0 = 149 in x0) in let x1 = x0 in x0 - x0)
+  /
+  (
+    for x0 from
+      1021
+    to
+      1021 + 3
+    sum
+      let x1 = fun (x1, x2) -> x0 in x1(646, x0)
+  )

@@ -1,0 +1,7 @@
+let x0 =
+  fun (x0, x1) -> let x2 = x1 in (let x3 = 417 in x1) - x1
+in
+let x1 =
+  let x1 = 70 in x0(let x2 = x1 in x2, x1)
+in
+let x2 = 216 in 544

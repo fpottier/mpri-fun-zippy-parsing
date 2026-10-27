@@ -1,0 +1,9 @@
+let x0 =
+  615 * 475 - 246
+in
+(
+  let x1 =
+    let x1 = (x0 - x0) / (let x1 = x0 in x0) in 459
+  in
+  let x2 = x1 in x1
+) + x0

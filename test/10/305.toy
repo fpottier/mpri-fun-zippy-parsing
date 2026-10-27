@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = 645 in x0
+  in
+  (let x1 = x0 - 157 in x1 - (x0 - 226)) / x0
+in
+x0 + 883 - x0

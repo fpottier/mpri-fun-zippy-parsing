@@ -1,0 +1,5 @@
+(let x0 = let x0 = let x0 = 298 in x0 in x0 in x0) *
+  (
+    (let x0 = 807 in x0) /
+      (let x0 = 970 in x0) * (874 / (148 - 119))
+  )

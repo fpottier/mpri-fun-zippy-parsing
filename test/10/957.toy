@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    801
+  in
+  let x1 =
+    864 - (let x1 = for x1 from 884 to 884 + 3 sum x1 in x0)
+  in
+  let x2 = (let x2 = x1 in x1) - x0 in 396
+in
+let x1 = x0 in x1

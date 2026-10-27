@@ -1,0 +1,7 @@
+(
+  let x0 =
+    fun (x0, x1) -> 764
+  in
+  (for x1 from 1000 to 1000 + 4 sum x1) / 324
+) / (let x0 = let x0 = fun (x0, x1) -> 358 in 625 in x0) +
+  (let x0 = let x0 = 380 in 211 in let x1 = x0 in x1)

@@ -1,0 +1,14 @@
+58 /
+  (
+    for x0 from
+      31
+    to
+      31 + 0
+    sum
+      let x1 =
+        110
+      in
+      (
+        let x2 = let x2 = 895 in (x0 + x2) / (let x3 = 547 in x1) in x2
+      ) / (370 - x1)
+  )

@@ -1,0 +1,14 @@
+let x0 =
+  678 * 997
+in
+x0 +
+  (
+    for x1 from
+      871
+    to
+      871 + 4
+    sum
+      (let x2 = let x2 = fun (x0, x1) -> 16 in x2(x0, x0) in x2 / x2)
+        +
+        (x1 + x1)
+  )

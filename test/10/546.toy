@@ -1,0 +1,5 @@
+let x0 =
+  let x0 = 600 - 1001 in x0 - x0
+in
+(for x1 from x0 to x0 + 4 sum let x2 = x0 - x1 in x0) +
+  (for x1 from 1021 to 1021 + 1 sum x1 + x1)

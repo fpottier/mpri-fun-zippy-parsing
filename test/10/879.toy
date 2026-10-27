@@ -1,0 +1,5 @@
+let x0 =
+  (let x0 = 684 in 885) *
+    (let x0 = let x0 = 417 in let x1 = 827 in x0 in 418)
+in
+for x1 from x0 to x0 + 4 sum let x2 = x0 + (x0 - 621) in 582

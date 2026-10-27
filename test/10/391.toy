@@ -1,0 +1,8 @@
+(
+  for x0 from
+    224
+  to
+    224 + 2
+  sum
+    (let x1 = fun (x0) -> 822 in (let x2 = x0 in 128) - x1(x0)) / x0
+) + (let x0 = fun (x0) -> 28 in 498 - 231)

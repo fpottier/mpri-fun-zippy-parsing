@@ -1,0 +1,6 @@
+let x0 =
+  let x0 = 843 in x0
+in
+(
+  let x1 = for x1 from 489 to 489 + 1 sum let x2 = 332 in x1 in x1
+) * (((let x1 = 413 in x0) - (let x1 = x0 in x1)) / x0)

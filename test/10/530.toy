@@ -1,0 +1,12 @@
+let x0 =
+  let x0 =
+    fun (x0) -> 981
+  in
+  x0(
+    let x1 =
+      fun (x1) -> x1
+    in
+    x0(for x2 from 178 to 178 + 2 sum 802)
+  )
+in
+x0 * (let x1 = x0 in let x2 = 537 in x1)

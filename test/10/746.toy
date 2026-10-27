@@ -1,0 +1,5 @@
+let x0 =
+  let x0 = 610 / 259 in let x1 = 24 in 141
+in
+((for x1 from 290 to 290 + 4 sum x0) + (x0 - 273)) *
+  ((let x1 = 355 in 560) / x0)

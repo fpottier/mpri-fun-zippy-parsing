@@ -1,0 +1,4 @@
+let x0 =
+  92 + 431 + (287 * 139 / 697 + 653) * 408
+in
+let x1 = 179 in let x2 = let x2 = x0 in x2 in x2

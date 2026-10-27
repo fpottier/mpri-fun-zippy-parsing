@@ -1,0 +1,12 @@
+(
+  for x0 from
+    228
+  to
+    228 + 0
+  sum
+    let x1 =
+      117
+    in
+    (let x2 = (x0 - x1) * x1 in 98) / x0 -
+      (x1 + (let x2 = 95 in x0))
+) / 587

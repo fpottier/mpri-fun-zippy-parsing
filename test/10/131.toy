@@ -1,0 +1,9 @@
+let x0 =
+  let x0 = fun (x0) -> 472 in 505
+in
+365 /
+  x0 /
+  (
+    ((let x1 = x0 in x1) + (let x1 = fun (x0) -> 918 in 512)) /
+      (let x1 = x0 in x0 + x0)
+  )

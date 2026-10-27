@@ -1,0 +1,12 @@
+let x0 =
+  for x0 from
+    981
+  to
+    981 + 3
+  sum
+    let x1 =
+      let x1 = x0 * x0 in let x2 = x0 in x1
+    in
+    let x2 = let x2 = x1 in x0 in (let x3 = x2 in x2) + 421
+in
+206

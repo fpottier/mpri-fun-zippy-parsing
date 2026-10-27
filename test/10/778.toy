@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0, x1) -> 532
+  in
+  x0(x0(x0(479, x0(698, 572)), 178), 76)
+in
+let x1 = x0 in (let x2 = x0 in x0) * x1 * x0

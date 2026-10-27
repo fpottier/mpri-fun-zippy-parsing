@@ -1,0 +1,9 @@
+(
+  let x0 =
+    fun () -> let x0 = fun (x0, x1) -> 992 in 859
+  in
+  let x1 =
+    let x1 = x0() in x0() + x0()
+  in
+  let x2 = for x2 from x1 to x1 + 3 sum x0() * 630 in x0()
+) + 535

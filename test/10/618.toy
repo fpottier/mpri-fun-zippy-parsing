@@ -1,0 +1,16 @@
+let x0 =
+  fun (x0, x1) -> 831
+in
+x0(
+  x0(
+    x0(
+      447,
+      let x1 =
+        977 - (let x1 = 541 in x1)
+      in
+      x0(602, let x2 = x1 in 429)
+    ),
+    231
+  ),
+  let x1 = 848 in 226
+)

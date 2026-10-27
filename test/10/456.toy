@@ -1,0 +1,13 @@
+let x0 =
+  let x0 =
+    let x0 = let x0 = fun (x0) -> 381 in 876 in x0
+  in
+  let x1 =
+    fun (x0, x1, x2) -> 661
+  in
+  let x2 =
+    let x2 = let x2 = fun (x0, x1) -> 987 in x0 in x1(x0, x0, x0)
+  in
+  let x3 = 704 in 610
+in
+988

@@ -1,0 +1,8 @@
+let x0 =
+  let x0 =
+    937
+  in
+  (let x1 = fun (x0) -> 633 in x0) -
+    (let x1 = fun (x1, x2) -> x0 in x0)
+in
+let x1 = fun (x0) -> 250 in let x2 = x1(x0) in x1(x0)

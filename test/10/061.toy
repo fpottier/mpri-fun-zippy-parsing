@@ -1,0 +1,7 @@
+let x0 =
+  for x0 from 715 to 715 + 3 sum let x1 = (x0 + 324) / x0 in 955
+in
+let x1 =
+  let x1 = fun (x0) -> 809 in x0
+in
+x1 - (for x2 from x1 to x1 + 4 sum x1 + x1)

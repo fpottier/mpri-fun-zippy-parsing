@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> 819
+  in
+  (x0(241) - x0(let x1 = x0(751) in x1)) * x0(34)
+in
+let x1 = 58 in x0

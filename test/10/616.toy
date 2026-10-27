@@ -1,0 +1,12 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      let x1 = x0 in x1
+    in
+    for x2 from x1 to x1 + 2 sum x1 / x1
+in
+x0(for x1 from 752 to 752 + 3 sum x1 * x1 + x1)

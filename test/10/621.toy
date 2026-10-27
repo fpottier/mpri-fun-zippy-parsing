@@ -1,0 +1,9 @@
+let x0 =
+  let x0 = 190 in 62
+in
+(
+  let x1 =
+    let x1 = x0 in let x2 = fun (x0) -> 606 in x0
+  in
+  let x2 = let x2 = let x2 = fun (x2) -> x1 in x1 in x1 in x1
+) - x0

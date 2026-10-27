@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    for x0 from 648 to 648 + 4 sum let x1 = fun (x0) -> 348 in 153
+  in
+  let x1 = x0 in 619
+in
+let x1 = fun (x1, x2) -> x1 / 731 in x1(x0, x0 / x0)

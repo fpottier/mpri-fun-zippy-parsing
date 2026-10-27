@@ -1,0 +1,5 @@
+let x0 =
+  507
+in
+((for x1 from 118 to 118 + 1 sum 387) + (x0 + 849)) /
+  ((let x1 = 688 in x1) / (x0 * ((let x1 = x0 in x1) + x0)))

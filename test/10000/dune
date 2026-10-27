@@ -1,0 +1,13 @@
+
+(rule (target 000.out) (deps 000.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 000.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 000.exp 000.out))
+)

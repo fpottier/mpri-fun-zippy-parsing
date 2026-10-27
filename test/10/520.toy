@@ -1,0 +1,6 @@
+let x0 =
+  let x0 = 1008 - 332 in x0 * x0
+in
+(let x1 = let x1 = x0 in 954 in x0 - x1 * (let x2 = 698 in 638))
+  +
+  395

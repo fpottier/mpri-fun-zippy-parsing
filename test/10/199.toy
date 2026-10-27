@@ -1,0 +1,4 @@
+let x0 =
+  802 * 1002 / (869 / 262 - (let x0 = fun (x0) -> x0 in x0(916)))
+in
+let x1 = x0 in x0 + x0

@@ -1,0 +1,14 @@
+let x0 =
+  (
+    for x0 from
+      119
+    to
+      119 + 1
+    sum
+      let x1 =
+        let x1 = fun (x1, x2) -> x0 in let x2 = fun (x0) -> 204 in x0
+      in
+      647 + (let x2 = fun (x0) -> 173 in x1)
+  ) / 227
+in
+x0 * 790

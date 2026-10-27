@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = 437 - (let x0 = 374 in x0) - 475 in 417 - x0 * x0
+  in
+  let x1 = x0 in for x2 from 336 to 336 + 3 sum x0
+in
+x0

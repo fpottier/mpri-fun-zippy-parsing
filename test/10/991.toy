@@ -1,0 +1,7 @@
+(let x0 = 890 + (let x0 = fun (x0) -> 64 in 211) in 238) * 251 -
+  (
+    let x0 =
+      let x0 = fun (x0, x1) -> x1 in 28
+    in
+    let x1 = 67 in let x2 = x1 in x2
+  )

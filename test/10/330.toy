@@ -1,0 +1,7 @@
+(
+  let x0 =
+    576 - (let x0 = fun (x0) -> 41 in 54)
+  in
+  for x1 from 235 to 235 + 1 sum x0 / (let x2 = x0 in x0) - x0
+) /
+  (for x0 from 478 to 478 + 3 sum let x1 = fun () -> 305 in x1())

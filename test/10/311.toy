@@ -1,0 +1,7 @@
+let x0 =
+  777 * 862 + (let x0 = 72 + 468 in x0)
+in
+let x1 =
+  fun () -> for x1 from 716 to 716 + 2 sum x1
+in
+x1() / x1() - 787

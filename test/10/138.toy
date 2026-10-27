@@ -1,0 +1,9 @@
+(
+  let x0 =
+    let x0 = 754 in x0
+  in
+  let x1 =
+    for x1 from x0 to x0 + 3 sum let x2 = x0 in x1
+  in
+  440 * x1
+) + (750 + 885 - 765 * 481)

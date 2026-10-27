@@ -1,0 +1,6 @@
+let x0 =
+  481 /
+    (let x0 = (for x0 from 9 to 9 + 2 sum x0) - 124 in x0) /
+    (577 / 487)
+in
+let x1 = fun (x1, x2) -> let x3 = fun (x0) -> 80 in x1 in 376

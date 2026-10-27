@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = fun (x0, x1) -> x1 in let x1 = x0(433, 114) in x1
+  in
+  let x1 = x0 * 1017 in let x2 = x1 in x0
+) + (for x0 from 958 to 958 + 1 sum x0)

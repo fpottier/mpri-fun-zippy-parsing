@@ -1,0 +1,3 @@
+(
+  let x0 = 414 in let x1 = x0 * (819 - 1014) in let x2 = 283 in x1
+) + (let x0 = fun (x0, x1) -> x1 in 969) / (688 + 42)

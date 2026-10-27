@@ -1,0 +1,16 @@
+let x0 =
+  (658 + 391) /
+    (
+      (for x0 from 284 to 284 + 4 sum x0) *
+        999 /
+        (
+          for x0 from
+            979
+          to
+            979 + 0
+          sum
+            for x1 from 501 to 501 + 3 sum 290
+        ) - (let x0 = fun (x0, x1, x2, x3) -> 874 in 754)
+    )
+in
+x0

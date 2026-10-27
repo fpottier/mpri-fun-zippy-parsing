@@ -1,0 +1,5 @@
+let x0 =
+  for x0 from 621 to 621 + 1 sum let x1 = x0 in x1
+in
+(let x1 = fun () -> x0 in 971) *
+  ((let x1 = 880 in x0) / (let x1 = x0 in x1) - x0)

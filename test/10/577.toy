@@ -1,0 +1,7 @@
+let x0 =
+  for x0 from 353 to 353 + 0 sum 390
+in
+let x1 =
+  fun (x1) -> let x2 = for x2 from x1 to x1 + 0 sum x2 in x2
+in
+let x2 = 254 / (let x2 = x0 in x2) in let x3 = x0 in x0

@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = fun (x0, x1) -> let x2 = x0 + x1 in x1 in 54
+  in
+  764
+) * ((let x0 = 22 in let x1 = x0 in 800) / (let x0 = 502 in x0))

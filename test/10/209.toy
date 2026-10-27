@@ -1,0 +1,12 @@
+let x0 =
+  fun (x0) -> 183
+in
+let x1 =
+  x0(
+    let x1 =
+      for x1 from 956 to 956 + 4 sum x0(let x2 = x1 in x1)
+    in
+    x1
+  )
+in
+x0(x0(x1) - x1)

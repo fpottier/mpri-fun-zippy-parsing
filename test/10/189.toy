@@ -1,0 +1,5 @@
+let x0 =
+  80 * (let x0 = 86 - (585 - 979) in x0)
+in
+x0 +
+  (let x1 = x0 in 922 - (x1 + (let x2 = fun (x0) -> 60 in x0)))

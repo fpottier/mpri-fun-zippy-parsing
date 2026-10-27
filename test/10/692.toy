@@ -1,0 +1,11 @@
+for x0 from
+  819
+to
+  819 + 1
+sum
+  (
+    let x1 =
+      388
+    in
+    for x2 from x0 to x0 + 2 sum let x3 = let x3 = x2 in 60 in x2
+  ) / (let x1 = for x1 from x0 to x0 + 3 sum x1 - x1 in 77 + x0)

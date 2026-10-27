@@ -1,0 +1,25 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    for x1 from
+      x0
+    to
+      x0 + 0
+    sum
+      for x2 from
+        x1
+      to
+        x1 + 0
+      sum
+        let x3 =
+          let x3 = 886 in x1
+        in
+        let x4 =
+          x3
+        in
+        let x5 = x0 + 186 in let x6 = fun (x0, x1, x2, x3) -> 843 in x1
+in
+778

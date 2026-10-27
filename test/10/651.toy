@@ -1,0 +1,7 @@
+let x0 =
+  (let x0 = 137 in x0) + 857
+in
+let x1 =
+  let x1 = let x1 = fun (x0, x1) -> 142 in 1020 in x0
+in
+(let x2 = let x2 = x0 in x0 in x2) - (x1 + 594)

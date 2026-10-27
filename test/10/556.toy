@@ -1,0 +1,12 @@
+let x0 =
+  let x0 =
+    770
+  in
+  (
+    let x1 =
+      for x1 from x0 to x0 + 3 sum for x2 from 324 to 324 + 3 sum x0
+    in
+    let x2 = fun (x0) -> 402 in x0
+  ) + 364
+in
+let x1 = 199 * 689 in let x2 = x0 in x0

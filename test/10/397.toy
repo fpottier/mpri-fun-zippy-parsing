@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    231 - 733
+  in
+  let x1 =
+    let x1 = let x1 = fun (x0) -> 916 in x0 in x1
+  in
+  x0 + x0
+in
+(let x1 = 715 in 38) - (let x1 = x0 in x1)

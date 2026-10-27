@@ -1,0 +1,7 @@
+let x0 =
+  (let x0 = fun (x0, x1) -> 740 in 227 * 849) + 845
+in
+let x1 =
+  fun (x1, x2) -> x1
+in
+x1(let x2 = x0 in x0, x0 - (let x2 = x0 in x2))

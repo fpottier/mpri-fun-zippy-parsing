@@ -1,0 +1,14 @@
+(
+  let x0 =
+    571 + (let x0 = 532 in x0 + x0)
+  in
+  for x1 from
+    x0
+  to
+    x0 + 4
+  sum
+    let x2 =
+      let x2 = x0 in x2
+    in
+    for x3 from 455 to 455 + 3 sum let x4 = x0 in x4
+) - 473

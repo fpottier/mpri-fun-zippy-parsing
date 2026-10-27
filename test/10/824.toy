@@ -1,0 +1,7 @@
+(let x0 = let x0 = 759 in 244 in x0) /
+  (
+    let x0 =
+      fun (x0) -> 516 - 172
+    in
+    x0(let x1 = for x1 from 512 to 512 + 2 sum x1 in 493 * x1)
+  )

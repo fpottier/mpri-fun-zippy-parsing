@@ -1,0 +1,9 @@
+(for x0 from 529 to 529 + 2 sum x0) /
+  (
+    (
+      let x0 =
+        439 - 421
+      in
+      (let x1 = x0 in 861) - (for x1 from x0 to x0 + 2 sum x1)
+    ) + ((let x0 = 206 in x0) + 176)
+  )

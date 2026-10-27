@@ -1,0 +1,5 @@
+(
+  (let x0 = 28 in for x1 from x0 to x0 + 4 sum x1) +
+    (let x0 = fun (x0, x1, x2, x3) -> 43 in 763) /
+      (124 + (let x0 = let x0 = 515 in 953 in 481))
+) * (for x0 from 820 to 820 + 0 sum x0)

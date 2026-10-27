@@ -1,0 +1,14 @@
+(let x0 = fun (x0) -> 723 in 557) / (let x0 = 356 in 740) +
+  (
+    for x0 from
+      406
+    to
+      406 + 0
+    sum
+      for x1 from
+        x0
+      to
+        x0 + 3
+      sum
+        let x2 = let x2 = fun (x0) -> 714 in x1 in x1
+  ) - (for x0 from 660 to 660 + 4 sum x0)

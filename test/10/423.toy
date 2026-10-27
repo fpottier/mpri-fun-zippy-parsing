@@ -1,0 +1,9 @@
+(
+  let x0 =
+    let x0 =
+      let x0 = let x0 = 490 in x0 in (let x1 = x0 in x0) * x0 * 585
+    in
+    952
+  in
+  181
+) - ((let x0 = 1015 in x0) - 109)

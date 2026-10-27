@@ -1,0 +1,18 @@
+for x0 from
+  343
+to
+  343 + 2
+sum
+  x0 +
+    (
+      let x1 =
+        fun
+        (
+          x1,
+          x2
+        )
+        ->
+          x0 / (let x3 = x1 in x1 + (let x4 = x1 * x1 in 244) * x2)
+      in
+      359
+    )

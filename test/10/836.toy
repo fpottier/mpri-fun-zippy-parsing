@@ -1,0 +1,10 @@
+let x0 =
+  846
+in
+let x1 =
+  let x1 =
+    let x1 = x0 + (for x1 from x0 to x0 + 3 sum x1) in 78
+  in
+  let x2 = let x2 = 182 in x2 in x2
+in
+for x2 from x1 to x1 + 1 sum let x3 = x0 in x0

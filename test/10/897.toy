@@ -1,0 +1,15 @@
+let x0 =
+  let x0 =
+    let x0 = fun (x0, x1) -> 540 in x0(872, 510)
+  in
+  let x1 = x0 in 214
+in
+for x1 from
+  774
+to
+  774 + 3
+sum
+  let x2 =
+    x1
+  in
+  for x3 from x2 to x2 + 3 sum (let x4 = 123 in x0) * 775

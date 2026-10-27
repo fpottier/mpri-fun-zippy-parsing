@@ -1,0 +1,19 @@
+(let x0 = 117 in 894) *
+  397 /
+  (
+    for x0 from
+      723
+    to
+      723 + 0
+    sum
+      let x1 =
+        x0
+      in
+      let x2 =
+        let x2 =
+          fun (x0) -> 717
+        in
+        let x3 = let x3 = x0 in x3 / x1 in x1
+      in
+      x2
+  )

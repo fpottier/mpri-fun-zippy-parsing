@@ -1,0 +1,7 @@
+(let x0 = 352 in x0 + x0) *
+  (
+    let x0 =
+      let x0 = 405 - 227 in x0 * x0
+    in
+    735 * (let x1 = let x1 = x0 in x0 in x1)
+  )

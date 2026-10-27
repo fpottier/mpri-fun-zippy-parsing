@@ -1,0 +1,12 @@
+(
+  let x0 =
+    282 * (let x0 = 292 in 625)
+  in
+  let x1 =
+    let x1 = fun (x0, x1) -> 668 in x0
+  in
+  let x2 =
+    fun (x2, x3, x4) -> for x5 from x2 to x2 + 2 sum x2
+  in
+  x0
+) / (let x0 = 648 in x0)

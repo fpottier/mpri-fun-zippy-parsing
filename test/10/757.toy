@@ -1,0 +1,5 @@
+let x0 =
+  152 /
+    (let x0 = 293 in 641) * (let x0 = let x0 = 218 in x0 in x0)
+in
+(let x1 = x0 in 144) / 283 - (for x1 from 557 to 557 + 4 sum x0)

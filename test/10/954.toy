@@ -1,0 +1,9 @@
+for x0 from
+  607
+to
+  607 + 2
+sum
+  let x1 =
+    fun (x1) -> let x2 = let x2 = x0 in x1 / x1 * (x0 / x0) in 516
+  in
+  let x2 = let x2 = 582 in x2 in 347

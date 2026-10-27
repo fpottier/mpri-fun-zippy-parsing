@@ -1,0 +1,18 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2,
+    x3
+  )
+  ->
+    let x4 =
+      x2
+    in
+    let x5 =
+      x0 - x3 * x1
+    in
+    (let x6 = x5 in 748) + (let x6 = 364 in 477)
+in
+for x1 from 552 to 552 + 0 sum x1

@@ -1,0 +1,14 @@
+let x0 =
+  858
+in
+(
+  for x1 from
+    x0
+  to
+    x0 + 2
+  sum
+    let x2 =
+      (let x2 = fun (x0) -> 127 in x2(x1)) * (395 * x0)
+    in
+    238
+) - (let x1 = x0 - x0 in 63)

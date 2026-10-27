@@ -1,0 +1,7 @@
+(
+  let x0 =
+    let x0 = 583 in x0 / 51
+  in
+  x0 *
+    (for x1 from x0 to x0 + 4 sum (let x2 = x1 in x0 / 225) * x0)
+) / (let x0 = 979 in x0)

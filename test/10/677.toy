@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> for x1 from x0 to x0 + 0 sum x0
+  in
+  x0(x0(40) + 736) - (for x1 from 567 to 567 + 1 sum x1)
+in
+x0 / x0

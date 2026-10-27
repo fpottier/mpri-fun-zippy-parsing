@@ -1,0 +1,4 @@
+let x0 =
+  fun (x0) -> (let x1 = x0 in x1 - 622) + x0
+in
+817 + 851 * x0(252 / (let x1 = 42 in x1))

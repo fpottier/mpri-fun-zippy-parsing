@@ -1,0 +1,16 @@
+for x0 from
+  410
+to
+  410 + 1
+sum
+  x0 -
+    597 +
+    (
+      let x1 =
+        let x1 =
+          fun (x1, x2) -> let x3 = x1 in x2
+        in
+        let x2 = 709 in 898
+      in
+      (let x2 = x1 in x2) - x1
+    )

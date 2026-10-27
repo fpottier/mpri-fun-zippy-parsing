@@ -1,0 +1,13 @@
+(
+  for x0 from
+    578
+  to
+    578 + 0
+  sum
+    for x1 from
+      x0
+    to
+      x0 + 1
+    sum
+      x1 + (let x2 = fun (x2) -> x1 in x0 * x1) * x0 + x1
+) / (let x0 = fun (x0, x1) -> 889 in 24)

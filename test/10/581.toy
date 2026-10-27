@@ -1,0 +1,7 @@
+let x0 =
+  15 - 496
+in
+let x1 =
+  for x1 from x0 to x0 + 2 sum x1
+in
+(let x2 = x1 / x0 in let x3 = x0 in x2) * x0 / (x0 + x0)

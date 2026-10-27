@@ -1,0 +1,4 @@
+let x0 =
+  let x0 = 56 in (let x1 = 13 / 318 in x0) - 76
+in
+x0 / (let x1 = fun (x0, x1) -> 460 in x1(543 - x0, x0) * x0)

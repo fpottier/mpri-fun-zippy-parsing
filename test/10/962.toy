@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> 489
+  in
+  252 * x0(x0((let x1 = 858 in x1) * 353))
+in
+(let x1 = x0 in 997) + (let x1 = 199 in x1)

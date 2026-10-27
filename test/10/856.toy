@@ -1,0 +1,9 @@
+let x0 =
+  let x0 = 518 in (let x1 = 116 in x1) * 170
+in
+for x1 from
+  x0
+to
+  x0 + 4
+sum
+  let x2 = x0 * x1 * x1 in (let x3 = x1 in x1) + x2

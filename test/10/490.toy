@@ -1,0 +1,5 @@
+(let x0 = 34 + 532 in x0) *
+  (
+    (let x0 = 273 in let x1 = x0 in let x2 = 1022 in x0) *
+      (let x0 = fun (x0) -> 101 in x0(414) / 843)
+  )

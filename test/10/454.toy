@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    let x0 =
+      fun (x0) -> x0
+    in
+    573 * (843 - 378 * x0(let x1 = 967 in 549))
+  in
+  x0 + x0
+in
+x0

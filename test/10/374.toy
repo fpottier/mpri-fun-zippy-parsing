@@ -1,0 +1,15 @@
+35 *
+  (
+    let x0 =
+      fun
+      (
+
+      )
+      ->
+        let x0 =
+          fun (x0) -> for x1 from x0 to x0 + 2 sum 355 + x0
+        in
+        let x1 = let x1 = 69 in x1 in 20
+    in
+    let x1 = 934 in x0()
+  )

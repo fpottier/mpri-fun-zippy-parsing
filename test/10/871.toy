@@ -1,0 +1,6 @@
+(
+  let x0 =
+    fun (x0) -> let x1 = 618 in let x2 = 179 in x2
+  in
+  let x1 = 977 * 656 in let x2 = x1 in let x3 = x0(x1) in x1
+) / 150

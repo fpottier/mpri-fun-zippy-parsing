@@ -1,0 +1,91 @@
+(
+  let x0 =
+    let x0 =
+      let x0 =
+        (let x0 = 70 in x0) - (let x0 = 442 in x0)
+      in
+      let x1 =
+        let x1 = x0 in let x2 = fun (x2) -> x0 in x0
+      in
+      (let x2 = x1 in let x3 = x2 in 498) - ((let x2 = x1 in x1) - x0)
+    in
+    x0 /
+      x0 / (for x1 from 316 to 316 + 1 sum x0 / x0 / (x1 * x1 / x1))
+  in
+  let x1 =
+    456 * (x0 - (937 - (let x1 = 203 * (x0 - x0) in x1)))
+  in
+  x1 - x0 * (for x2 from x0 to x0 + 2 sum x1 * x0 - x0)
+) +
+  (
+    for x0 from
+      827
+    to
+      827 + 2
+    sum
+      (let x1 = x0 in 600 * (let x2 = x1 in x2)) +
+        (
+          let x1 =
+            896 /
+              (449 * ((let x1 = fun (x0, x1, x2, x3) -> 1007 in x0) - x0))
+          in
+          for x2 from x1 to x1 + 1 sum let x3 = x0 in x2
+        ) *
+          (
+            (for x1 from x0 to x0 + 4 sum x0) * x0 +
+              (
+                let x1 =
+                  x0 + (let x1 = x0 in x1)
+                in
+                for x2 from 335 to 335 + 4 sum x2 + x0
+              )
+          )
+  ) -
+  (
+    let x0 =
+      let x0 = 691 in let x1 = (let x1 = x0 in x0) - x0 in 48
+    in
+    (
+      for x1 from
+        x0
+      to
+        x0 + 1
+      sum
+        let x2 =
+          (
+            let x2 =
+              for x2 from x0 to x0 + 4 sum let x3 = x0 in 279
+            in
+            let x3 =
+              for x3 from
+                x2
+              to
+                x2 + 4
+              sum
+                (let x4 = 382 + 779 in (let x5 = x1 in x1 / 88) * x4) /
+                  (x2 / x1)
+            in
+            let x4 = x0 in 996
+          ) + x1 * x1
+        in
+        let x3 = let x3 = x0 + x2 in x2 in x0
+    ) /
+      (
+        let x1 =
+          504
+        in
+        (let x2 = x1 in x2) -
+          (let x2 = x0 - 87 in let x3 = x0 in x2 * x2)
+      )
+  ) -
+  (
+    let x0 =
+      for x0 from
+        43
+      to
+        43 + 0
+      sum
+        let x1 = fun (x1) -> 673 / x1 in x1(866 + x0)
+    in
+    562 * (let x1 = 872 in x0)
+  )

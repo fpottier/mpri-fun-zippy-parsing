@@ -1,0 +1,7 @@
+let x0 =
+  394
+in
+let x1 =
+  fun (x1, x2, x3) -> let x4 = x2 in x4 + (let x5 = x4 in x3)
+in
+let x2 = fun (x2) -> x0 + x2 in let x3 = x0 in x0

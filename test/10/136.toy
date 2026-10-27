@@ -1,0 +1,11 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    (
+      (let x1 = 713 in 147) - (for x1 from 310 to 310 + 2 sum x0 - x0)
+    ) * ((let x1 = fun (x0, x1) -> 191 in x0) / 25)
+in
+x0(228)

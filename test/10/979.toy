@@ -1,0 +1,14 @@
+(
+  for x0 from
+    104
+  to
+    104 + 0
+  sum
+    571 +
+      (
+        let x1 =
+          for x1 from x0 to x0 + 3 sum 244 / x1
+        in
+        let x2 = let x2 = x1 in x0 in x0
+      )
+) / (let x0 = 642 in x0 / 957)

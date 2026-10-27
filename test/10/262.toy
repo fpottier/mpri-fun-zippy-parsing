@@ -1,0 +1,2 @@
+(let x0 = let x0 = 927 in let x1 = x0 in x0 in x0 - x0) +
+  960 - (let x0 = 94 / (let x0 = 778 in 658) in let x1 = x0 in x1)

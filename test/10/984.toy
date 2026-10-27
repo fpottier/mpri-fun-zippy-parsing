@@ -1,0 +1,13 @@
+let x0 =
+  317
+in
+let x1 =
+  (let x1 = fun (x0) -> 844 in x1(x0)) /
+    (
+      let x1 =
+        let x1 = let x1 = let x1 = x0 in x1 in x0 in x0 * 1000
+      in
+      x1
+    )
+in
+x1

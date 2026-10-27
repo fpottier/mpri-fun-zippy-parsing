@@ -1,0 +1,13 @@
+let x0 =
+  (let x0 = 953 in x0) -
+    (
+      let x0 =
+        fun (x0, x1, x2) -> 242
+      in
+      let x1 =
+        975 * (let x1 = 418 in x1)
+      in
+      x0(let x2 = x1 in x1, x1, x1)
+    )
+in
+610

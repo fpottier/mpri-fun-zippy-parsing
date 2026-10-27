@@ -1,0 +1,12 @@
+let x0 =
+  532
+in
+let x1 =
+  fun (x1, x2, x3, x4) -> let x5 = let x5 = x2 in x2 in x0 * x5
+in
+x1(
+  (let x2 = fun (x0) -> 170 in 184) * (let x2 = x0 in x0),
+  258,
+  818,
+  x0
+)

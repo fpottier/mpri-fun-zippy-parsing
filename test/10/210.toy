@@ -1,0 +1,11 @@
+let x0 =
+  429 /
+    316 *
+    (
+      let x0 =
+        let x0 = 109 in x0
+      in
+      412 / (let x1 = fun (x0) -> 64 in 231)
+    )
+in
+let x1 = (let x1 = x0 in x1) / 605 in x0

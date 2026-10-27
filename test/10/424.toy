@@ -1,0 +1,13 @@
+(
+  let x0 =
+    fun
+    (
+      x0,
+      x1,
+      x2
+    )
+    ->
+      let x3 = let x3 = fun (x0) -> 515 in x2 in x2
+  in
+  x0(let x1 = 925 in 867, 124, (let x1 = 80 in x1) * 895)
+) / (921 + 485)

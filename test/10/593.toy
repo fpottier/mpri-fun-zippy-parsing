@@ -1,0 +1,9 @@
+(let x0 = (646 - 172) / 163 in x0) /
+  (
+    for x0 from
+      529
+    to
+      529 + 2
+    sum
+      let x1 = x0 + x0 in (let x2 = 441 in x0) / (let x2 = x0 in 554)
+  )

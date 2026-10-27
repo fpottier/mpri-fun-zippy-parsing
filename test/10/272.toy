@@ -1,0 +1,25 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      for x1 from
+        546
+      to
+        546 + 3
+      sum
+        let x2 =
+          fun
+          (
+            x2
+          )
+          ->
+            let x3 = for x3 from 972 to 972 + 4 sum x0 - x3 in x3
+        in
+        let x3 = 355 in x0
+    in
+    x0
+in
+224

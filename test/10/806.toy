@@ -1,0 +1,11 @@
+(
+  let x0 =
+    for x0 from
+      675
+    to
+      675 + 0
+    sum
+      (let x1 = x0 in let x2 = 499 in x2) - 909
+  in
+  x0
+) / (let x0 = let x0 = (let x0 = 807 in x0) - 607 in x0 in x0)

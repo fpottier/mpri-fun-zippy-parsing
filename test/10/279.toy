@@ -1,0 +1,12 @@
+(let x0 = fun (x0, x1, x2) -> 282 in 14) /
+  (
+    let x0 =
+      909
+    in
+    for x1 from
+      772
+    to
+      772 + 3
+    sum
+      let x2 = let x2 = fun (x0, x1) -> 723 in x1 in x1
+  ) / ((let x0 = fun (x0) -> x0 in 1003) * 291)

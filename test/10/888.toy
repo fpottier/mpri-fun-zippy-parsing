@@ -1,0 +1,16 @@
+let x0 =
+  for x0 from
+    263
+  to
+    263 + 3
+  sum
+    let x1 =
+      516
+    in
+    (280 + x1 / x0) /
+      (
+        (let x2 = for x2 from x1 to x1 + 3 sum x0 in x0) -
+          (let x2 = x0 in x0)
+      )
+in
+896

@@ -1,0 +1,7 @@
+(let x0 = 301 / 199 in 392) /
+  (
+    let x0 =
+      fun (x0) -> let x1 = 41 / 493 / x0 in let x2 = x1 in x1
+    in
+    x0(408)
+  )

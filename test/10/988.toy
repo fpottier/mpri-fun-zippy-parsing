@@ -1,0 +1,9 @@
+917 -
+  (
+    let x0 =
+      fun (x0) -> let x1 = let x1 = x0 in x1 in x0
+    in
+    107 /
+      (let x1 = let x1 = fun (x0, x1, x2, x3) -> 470 in 652 in x1) *
+      x0(743)
+  )

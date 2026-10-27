@@ -1,0 +1,20 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1
+  )
+  ->
+    (
+      let x2 =
+        fun
+        (
+          x2
+        )
+        ->
+          let x3 = let x3 = x0 * x1 in x3 in x0 + (let x4 = x0 in x4)
+      in
+      x1
+    ) + x0
+in
+569

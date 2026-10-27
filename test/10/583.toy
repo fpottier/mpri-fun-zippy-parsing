@@ -1,0 +1,10 @@
+let x0 =
+  771 / (let x0 = 25 in x0 / x0)
+in
+let x1 =
+  let x1 =
+    (let x1 = for x1 from 198 to 198 + 1 sum x0 in x0) / x0
+  in
+  x0
+in
+x1 - x0

@@ -1,0 +1,4 @@
+let x0 =
+  589 + (for x0 from 116 to 116 + 0 sum 624) / 843
+in
+(let x1 = x0 / (821 * x0 / (x0 / 813)) in x1) * x0

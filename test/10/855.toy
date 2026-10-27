@@ -1,0 +1,10 @@
+837 -
+  (
+    let x0 =
+      fun (x0) -> let x1 = fun (x1, x2) -> x0 in 333
+    in
+    let x1 =
+      let x1 = 605 - 582 in let x2 = x0 in 483
+    in
+    let x2 = x1 in 727
+  )

@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    (let x0 = 779 in x0 / 940) - (let x0 = 45 in 482) / 440
+  in
+  76
+in
+let x1 = for x1 from x0 to x0 + 3 sum 529 + x0 in x0

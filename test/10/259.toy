@@ -1,0 +1,14 @@
+(
+  786 / 168 +
+    (
+      let x0 = let x0 = for x0 from 657 to 657 + 4 sum x0 in 654 in x0
+    )
+) *
+  (
+    for x0 from
+      741
+    to
+      741 + 4
+    sum
+      let x1 = 28 in x1 / (for x2 from x1 to x1 + 2 sum x2)
+  )

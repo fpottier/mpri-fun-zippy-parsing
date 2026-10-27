@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = let x0 = 367 in x0 in let x1 = 792 / x0 in x0
+  in
+  x0
+) * (482 / 976) * (854 * (729 / 65))

@@ -1,0 +1,5 @@
+let x0 =
+  let x0 = let x0 = fun (x0, x1, x2) -> 259 in 355 in 773
+in
+(let x1 = for x1 from 363 to 363 + 3 sum x1 in 545) -
+  x0 - (let x1 = x0 + 673 in 773 / x0)

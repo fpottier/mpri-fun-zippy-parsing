@@ -1,0 +1,7 @@
+let x0 =
+  (let x0 = 264 in let x1 = x0 in x1) + (let x0 = 240 in 728)
+in
+let x1 =
+  let x1 = 304 + (let x1 = x0 in 474) in x1
+in
+let x2 = 728 in x1

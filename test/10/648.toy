@@ -1,0 +1,11 @@
+for x0 from
+  700
+to
+  700 + 3
+sum
+  (
+    let x1 =
+      x0 / x0
+    in
+    let x2 = fun (x0) -> 676 in x2((let x3 = x2 in x1) - x1)
+  ) + (x0 / 359 + x0)

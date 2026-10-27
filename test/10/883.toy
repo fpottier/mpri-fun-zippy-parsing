@@ -1,0 +1,9 @@
+(
+  let x0 = fun (x0, x1, x2) -> 59 in let x1 = fun () -> 95 in x1()
+) +
+  (
+    let x0 =
+      let x0 = 924 * (let x0 = 910 in 402) in x0
+    in
+    let x1 = let x1 = for x1 from 543 to 543 + 2 sum x0 in x0 in x1
+  )

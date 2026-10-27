@@ -1,0 +1,10 @@
+(let x0 = fun (x0) -> for x1 from x0 to x0 + 1 sum x0 in 649) *
+  (
+    let x0 =
+      let x0 =
+        fun (x0, x1, x2) -> let x3 = x0 in x1
+      in
+      let x1 = 389 in 25 - 443
+    in
+    x0
+  )

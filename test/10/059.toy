@@ -1,0 +1,4 @@
+let x0 =
+  fun (x0) -> x0 - 830
+in
+x0(x0(let x1 = x0(x0(988)) in let x2 = x0(x1) in x2))

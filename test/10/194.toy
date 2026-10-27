@@ -1,0 +1,14 @@
+let x0 =
+  (
+    for x0 from
+      348
+    to
+      348 + 1
+    sum
+      let x1 = fun (x1, x2, x3) -> x2 in x0
+  ) - 671
+in
+let x1 =
+  x0 / 48 - (let x1 = fun (x0, x1, x2) -> 51 in x0)
+in
+let x2 = x1 in x1

@@ -1,0 +1,6 @@
+(for x0 from 61 to 61 + 4 sum let x1 = 492 in let x2 = x1 in x0)
+  *
+  (
+    (let x0 = fun (x0, x1) -> 828 in 748) *
+      (281 * 111 / (let x0 = 431 in 370 * 224))
+  )

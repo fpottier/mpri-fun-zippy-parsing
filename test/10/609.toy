@@ -1,0 +1,13 @@
+for x0 from
+  50
+to
+  50 + 4
+sum
+  (
+    let x1 =
+      x0
+    in
+    for x2 from x1 to x1 + 4 sum let x3 = x2 in let x4 = x0 in 346
+  ) *
+    (let x1 = fun (x0, x1, x2) -> 857 in x0 / x0) *
+    (for x1 from x0 to x0 + 1 sum x0)

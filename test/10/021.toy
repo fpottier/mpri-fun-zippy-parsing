@@ -1,0 +1,13 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1
+  )
+  ->
+    let x2 =
+      x0
+    in
+    let x3 = fun (x3, x4) -> let x5 = x1 + x2 in x1 in x0
+in
+x0(x0(35, 798), let x1 = 266 in x1)

@@ -1,0 +1,9 @@
+let x0 =
+  let x0 = fun (x0) -> let x1 = 622 in 873 * x0 in 551
+in
+for x1 from
+  x0
+to
+  x0 + 0
+sum
+  26 * x0 - ((for x2 from 559 to 559 + 0 sum 164) - x1)

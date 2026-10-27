@@ -1,0 +1,5 @@
+let x0 =
+  671 - (let x0 = 364 in let x1 = fun (x0, x1) -> 568 in x0)
+in
+x0 / (let x1 = fun (x0) -> 52 in x0) +
+  (let x1 = for x1 from 271 to 271 + 2 sum 629 + x1 in 428)

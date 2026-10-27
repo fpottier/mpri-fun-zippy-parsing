@@ -1,0 +1,6 @@
+(
+  let x0 =
+    284 / (let x0 = let x0 = 745 in x0 in 101)
+  in
+  (let x1 = 212 in x0) / 897
+) * (let x0 = 88 in (925 - 616) * 188)

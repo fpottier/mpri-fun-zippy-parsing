@@ -1,0 +1,8 @@
+(let x0 = fun () -> 672 in x0()) /
+  (let x0 = 493 in 973) /
+  (
+    let x0 =
+      746 - 12 + (let x0 = fun (x0) -> 452 in 948)
+    in
+    for x1 from 621 to 621 + 4 sum for x2 from x1 to x1 + 0 sum x1
+  )

@@ -1,0 +1,8 @@
+(
+  for x0 from
+    681
+  to
+    681 + 0
+  sum
+    (let x1 = let x1 = 726 in x0 * 900 in x0) / (let x1 = 201 in x0)
+) + (let x0 = (let x0 = 251 in x0) / 418 in 1005)

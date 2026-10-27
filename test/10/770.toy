@@ -1,0 +1,20 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    let x3 =
+      x2
+    in
+    (let x4 = fun (x0) -> 53 in 33) * x2 -
+      (
+        let x4 =
+          fun (x4, x5) -> let x6 = fun (x0, x1, x2) -> 468 in x2
+        in
+        x0
+      )
+in
+for x1 from 8 to 8 + 4 sum x1

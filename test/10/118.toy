@@ -1,0 +1,9 @@
+(let x0 = 592 in x0) -
+  (
+    let x0 =
+      for x0 from 120 to 120 + 2 sum 994
+    in
+    (let x1 = fun (x0, x1) -> 327 in x1(let x2 = x0 - x0 in x2, x0))
+      +
+      (let x1 = x0 in x1)
+  )

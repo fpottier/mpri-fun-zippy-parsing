@@ -1,0 +1,1300 @@
+
+(rule (target 000.out) (deps 000.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 000.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 000.exp 000.out))
+)
+
+(rule (target 001.out) (deps 001.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 001.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 001.exp 001.out))
+)
+
+(rule (target 002.out) (deps 002.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 002.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 002.exp 002.out))
+)
+
+(rule (target 003.out) (deps 003.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 003.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 003.exp 003.out))
+)
+
+(rule (target 004.out) (deps 004.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 004.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 004.exp 004.out))
+)
+
+(rule (target 005.out) (deps 005.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 005.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 005.exp 005.out))
+)
+
+(rule (target 006.out) (deps 006.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 006.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 006.exp 006.out))
+)
+
+(rule (target 007.out) (deps 007.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 007.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 007.exp 007.out))
+)
+
+(rule (target 008.out) (deps 008.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 008.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 008.exp 008.out))
+)
+
+(rule (target 009.out) (deps 009.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 009.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 009.exp 009.out))
+)
+
+(rule (target 010.out) (deps 010.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 010.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 010.exp 010.out))
+)
+
+(rule (target 011.out) (deps 011.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 011.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 011.exp 011.out))
+)
+
+(rule (target 012.out) (deps 012.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 012.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 012.exp 012.out))
+)
+
+(rule (target 013.out) (deps 013.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 013.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 013.exp 013.out))
+)
+
+(rule (target 014.out) (deps 014.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 014.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 014.exp 014.out))
+)
+
+(rule (target 015.out) (deps 015.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 015.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 015.exp 015.out))
+)
+
+(rule (target 016.out) (deps 016.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 016.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 016.exp 016.out))
+)
+
+(rule (target 017.out) (deps 017.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 017.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 017.exp 017.out))
+)
+
+(rule (target 018.out) (deps 018.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 018.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 018.exp 018.out))
+)
+
+(rule (target 019.out) (deps 019.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 019.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 019.exp 019.out))
+)
+
+(rule (target 020.out) (deps 020.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 020.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 020.exp 020.out))
+)
+
+(rule (target 021.out) (deps 021.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 021.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 021.exp 021.out))
+)
+
+(rule (target 022.out) (deps 022.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 022.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 022.exp 022.out))
+)
+
+(rule (target 023.out) (deps 023.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 023.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 023.exp 023.out))
+)
+
+(rule (target 024.out) (deps 024.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 024.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 024.exp 024.out))
+)
+
+(rule (target 025.out) (deps 025.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 025.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 025.exp 025.out))
+)
+
+(rule (target 026.out) (deps 026.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 026.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 026.exp 026.out))
+)
+
+(rule (target 027.out) (deps 027.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 027.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 027.exp 027.out))
+)
+
+(rule (target 028.out) (deps 028.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 028.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 028.exp 028.out))
+)
+
+(rule (target 029.out) (deps 029.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 029.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 029.exp 029.out))
+)
+
+(rule (target 030.out) (deps 030.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 030.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 030.exp 030.out))
+)
+
+(rule (target 031.out) (deps 031.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 031.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 031.exp 031.out))
+)
+
+(rule (target 032.out) (deps 032.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 032.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 032.exp 032.out))
+)
+
+(rule (target 033.out) (deps 033.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 033.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 033.exp 033.out))
+)
+
+(rule (target 034.out) (deps 034.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 034.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 034.exp 034.out))
+)
+
+(rule (target 035.out) (deps 035.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 035.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 035.exp 035.out))
+)
+
+(rule (target 036.out) (deps 036.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 036.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 036.exp 036.out))
+)
+
+(rule (target 037.out) (deps 037.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 037.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 037.exp 037.out))
+)
+
+(rule (target 038.out) (deps 038.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 038.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 038.exp 038.out))
+)
+
+(rule (target 039.out) (deps 039.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 039.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 039.exp 039.out))
+)
+
+(rule (target 040.out) (deps 040.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 040.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 040.exp 040.out))
+)
+
+(rule (target 041.out) (deps 041.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 041.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 041.exp 041.out))
+)
+
+(rule (target 042.out) (deps 042.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 042.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 042.exp 042.out))
+)
+
+(rule (target 043.out) (deps 043.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 043.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 043.exp 043.out))
+)
+
+(rule (target 044.out) (deps 044.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 044.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 044.exp 044.out))
+)
+
+(rule (target 045.out) (deps 045.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 045.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 045.exp 045.out))
+)
+
+(rule (target 046.out) (deps 046.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 046.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 046.exp 046.out))
+)
+
+(rule (target 047.out) (deps 047.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 047.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 047.exp 047.out))
+)
+
+(rule (target 048.out) (deps 048.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 048.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 048.exp 048.out))
+)
+
+(rule (target 049.out) (deps 049.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 049.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 049.exp 049.out))
+)
+
+(rule (target 050.out) (deps 050.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 050.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 050.exp 050.out))
+)
+
+(rule (target 051.out) (deps 051.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 051.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 051.exp 051.out))
+)
+
+(rule (target 052.out) (deps 052.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 052.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 052.exp 052.out))
+)
+
+(rule (target 053.out) (deps 053.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 053.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 053.exp 053.out))
+)
+
+(rule (target 054.out) (deps 054.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 054.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 054.exp 054.out))
+)
+
+(rule (target 055.out) (deps 055.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 055.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 055.exp 055.out))
+)
+
+(rule (target 056.out) (deps 056.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 056.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 056.exp 056.out))
+)
+
+(rule (target 057.out) (deps 057.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 057.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 057.exp 057.out))
+)
+
+(rule (target 058.out) (deps 058.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 058.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 058.exp 058.out))
+)
+
+(rule (target 059.out) (deps 059.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 059.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 059.exp 059.out))
+)
+
+(rule (target 060.out) (deps 060.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 060.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 060.exp 060.out))
+)
+
+(rule (target 061.out) (deps 061.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 061.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 061.exp 061.out))
+)
+
+(rule (target 062.out) (deps 062.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 062.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 062.exp 062.out))
+)
+
+(rule (target 063.out) (deps 063.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 063.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 063.exp 063.out))
+)
+
+(rule (target 064.out) (deps 064.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 064.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 064.exp 064.out))
+)
+
+(rule (target 065.out) (deps 065.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 065.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 065.exp 065.out))
+)
+
+(rule (target 066.out) (deps 066.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 066.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 066.exp 066.out))
+)
+
+(rule (target 067.out) (deps 067.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 067.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 067.exp 067.out))
+)
+
+(rule (target 068.out) (deps 068.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 068.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 068.exp 068.out))
+)
+
+(rule (target 069.out) (deps 069.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 069.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 069.exp 069.out))
+)
+
+(rule (target 070.out) (deps 070.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 070.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 070.exp 070.out))
+)
+
+(rule (target 071.out) (deps 071.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 071.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 071.exp 071.out))
+)
+
+(rule (target 072.out) (deps 072.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 072.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 072.exp 072.out))
+)
+
+(rule (target 073.out) (deps 073.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 073.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 073.exp 073.out))
+)
+
+(rule (target 074.out) (deps 074.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 074.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 074.exp 074.out))
+)
+
+(rule (target 075.out) (deps 075.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 075.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 075.exp 075.out))
+)
+
+(rule (target 076.out) (deps 076.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 076.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 076.exp 076.out))
+)
+
+(rule (target 077.out) (deps 077.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 077.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 077.exp 077.out))
+)
+
+(rule (target 078.out) (deps 078.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 078.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 078.exp 078.out))
+)
+
+(rule (target 079.out) (deps 079.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 079.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 079.exp 079.out))
+)
+
+(rule (target 080.out) (deps 080.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 080.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 080.exp 080.out))
+)
+
+(rule (target 081.out) (deps 081.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 081.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 081.exp 081.out))
+)
+
+(rule (target 082.out) (deps 082.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 082.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 082.exp 082.out))
+)
+
+(rule (target 083.out) (deps 083.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 083.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 083.exp 083.out))
+)
+
+(rule (target 084.out) (deps 084.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 084.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 084.exp 084.out))
+)
+
+(rule (target 085.out) (deps 085.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 085.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 085.exp 085.out))
+)
+
+(rule (target 086.out) (deps 086.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 086.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 086.exp 086.out))
+)
+
+(rule (target 087.out) (deps 087.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 087.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 087.exp 087.out))
+)
+
+(rule (target 088.out) (deps 088.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 088.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 088.exp 088.out))
+)
+
+(rule (target 089.out) (deps 089.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 089.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 089.exp 089.out))
+)
+
+(rule (target 090.out) (deps 090.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 090.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 090.exp 090.out))
+)
+
+(rule (target 091.out) (deps 091.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 091.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 091.exp 091.out))
+)
+
+(rule (target 092.out) (deps 092.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 092.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 092.exp 092.out))
+)
+
+(rule (target 093.out) (deps 093.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 093.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 093.exp 093.out))
+)
+
+(rule (target 094.out) (deps 094.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 094.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 094.exp 094.out))
+)
+
+(rule (target 095.out) (deps 095.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 095.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 095.exp 095.out))
+)
+
+(rule (target 096.out) (deps 096.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 096.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 096.exp 096.out))
+)
+
+(rule (target 097.out) (deps 097.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 097.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 097.exp 097.out))
+)
+
+(rule (target 098.out) (deps 098.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 098.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 098.exp 098.out))
+)
+
+(rule (target 099.out) (deps 099.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 099.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 099.exp 099.out))
+)

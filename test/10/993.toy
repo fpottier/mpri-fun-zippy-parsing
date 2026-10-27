@@ -1,0 +1,12 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    (let x3 = let x3 = x0 in x3 in x2) / (let x3 = x0 in x3)
+in
+(let x1 = fun (x0, x1) -> 702 in 817) /
+  x0(let x1 = 409 in 997, 24, 448)

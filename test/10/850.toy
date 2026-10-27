@@ -1,0 +1,5 @@
+let x0 =
+  597 / 167
+in
+(let x1 = 935 in x1) /
+  ((let x1 = x0 in let x2 = 9 * x0 - x0 / 291 in x2) - x0)

@@ -1,0 +1,7 @@
+(let x0 = let x0 = 751 in x0 in let x1 = x0 in x0) -
+  (
+    let x0 =
+      600 + 9 - 716
+    in
+    let x1 = let x1 = x0 in let x2 = 716 in x0 in x1
+  )

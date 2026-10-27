@@ -1,0 +1,9 @@
+(let x0 = (let x0 = let x0 = 551 in x0 in 676) + 776 in x0) -
+  (
+    for x0 from
+      924
+    to
+      924 + 3
+    sum
+      for x1 from 913 to 913 + 0 sum 731 * ((x0 - x1) / x1)
+  )

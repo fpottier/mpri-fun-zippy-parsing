@@ -1,0 +1,13 @@
+for x0 from
+  846
+to
+  846 + 0
+sum
+  let x1 =
+    x0
+  in
+  let x2 =
+    (let x2 = x1 in x2) * (for x2 from x1 to x1 + 0 sum 146) -
+      (let x2 = x0 in x0 - (let x3 = x2 in x1))
+  in
+  599

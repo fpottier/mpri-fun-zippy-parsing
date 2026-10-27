@@ -1,0 +1,13 @@
+(
+  let x0 =
+    for x0 from
+      123
+    to
+      123 + 0
+    sum
+      (let x1 = fun (x0) -> 590 in 333) +
+        41 /
+          (for x1 from 57 to 57 + 3 sum let x2 = fun (x0) -> 665 in 952)
+  in
+  x0 - (let x1 = x0 in x1)
+) / 284

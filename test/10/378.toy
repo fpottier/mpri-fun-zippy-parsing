@@ -1,0 +1,11 @@
+let x0 =
+  (for x0 from 26 to 26 + 1 sum x0) /
+    (
+      let x0 =
+        (let x0 = 941 in let x1 = x0 in x0) *
+          (for x0 from 240 to 240 + 1 sum 186 + x0 * x0)
+      in
+      x0
+    )
+in
+x0

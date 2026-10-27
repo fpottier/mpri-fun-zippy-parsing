@@ -1,0 +1,12 @@
+for x0 from
+  962
+to
+  962 + 0
+sum
+  let x1 =
+    x0 + (let x1 = fun () -> x0 in x0) + x0
+  in
+  let x2 =
+    x0
+  in
+  let x3 = for x3 from x2 to x2 + 3 sum let x4 = 826 in x1 in x0

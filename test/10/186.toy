@@ -1,0 +1,14 @@
+for x0 from
+  666
+to
+  666 + 0
+sum
+  let x1 =
+    fun () -> let x1 = 524 in x1
+  in
+  (
+    let x2 =
+      let x2 = x1() in 724
+    in
+    (let x3 = x1() in for x4 from x3 to x3 + 1 sum x0) - 730
+  ) - 64

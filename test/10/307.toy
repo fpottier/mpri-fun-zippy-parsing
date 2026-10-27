@@ -1,0 +1,7 @@
+(
+  let x0 =
+    let x0 = 36 in let x1 = 574 in x0
+  in
+  let x1 = x0 in x0 * x0
+) +
+  (for x0 from 523 to 523 + 0 sum (let x1 = x0 in x1) * x0) / 144

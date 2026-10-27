@@ -1,0 +1,10 @@
+(
+  let x0 =
+    let x0 = fun (x0) -> 524 in let x1 = 86 in 264
+  in
+  x0 / x0
+) *
+  (
+    (let x0 = 536 in x0) -
+      (let x0 = let x0 = fun (x0) -> 628 in 863 in x0 - x0)
+  )

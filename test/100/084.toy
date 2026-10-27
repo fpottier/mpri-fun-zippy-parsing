@@ -1,0 +1,105 @@
+(
+  let x0 =
+    fun
+    (
+      x0,
+      x1
+    )
+    ->
+      let x2 =
+        fun (x2) -> x1 * (325 * x1)
+      in
+      x2(
+        let x3 =
+          fun (x3) -> x1
+        in
+        let x4 = fun (x0, x1, x2, x3) -> 443 in x1
+      ) *
+        x2(
+          x2(
+            let x3 =
+              x0 / (let x3 = (let x3 = 712 in x1) - x2(x2(x2(x1))) in x1)
+            in
+            x0
+          )
+        )
+  in
+  let x1 =
+    let x1 =
+      fun (x1, x2, x3) -> x0(x3, x2) * (let x4 = 431 in x2)
+    in
+    let x2 =
+      x0(62, x0(let x2 = x0 in 634, let x2 = 947 in 232) * 321)
+    in
+    723 * (let x3 = x0 in 508) * x2
+  in
+  let x2 =
+    fun
+    (
+      x2,
+      x3
+    )
+    ->
+      let x4 =
+        for x4 from x3 to x3 + 2 sum x1
+      in
+      x0(
+        x0(
+          x0(x3, let x5 = x1 * x1 in x5),
+          x0(
+            let x5 =
+              (let x5 = x0 in x3) / x3
+            in
+            x0(
+              (let x6 = fun (x0, x1, x2) -> 649 in x4) + x5,
+              x0(x5, x4 - x4)
+            ),
+            x1
+          )
+        ),
+        x2
+      )
+  in
+  let x3 = let x3 = x1 in x1 in x3 / x3
+) +
+  (
+    let x0 =
+      let x0 =
+        let x0 = let x0 = 864 in 924 in x0
+      in
+      x0 - (let x1 = x0 in let x2 = x1 in 13)
+    in
+    (let x1 = x0 in x1) / (789 + (let x1 = let x1 = x0 in x0 in x0))
+  ) +
+  (
+    (
+      let x0 = 330 in let x1 = x0 in let x2 = x0 in let x3 = x0 in x2
+    ) /
+      (
+        let x0 =
+          fun
+          (
+            x0
+          )
+          ->
+            for x1 from x0 to x0 + 3 sum for x2 from 868 to 868 + 2 sum x0
+        in
+        167
+      ) +
+      ((for x0 from 201 to 201 + 1 sum x0) + 200) -
+      (
+        let x0 =
+          492 * 309 * 629
+        in
+        (let x1 = x0 * x0 in x0 * 1007) / (let x1 = x0 in x0)
+      )
+  ) +
+  (
+    let x0 =
+      let x0 =
+        (let x0 = fun () -> 706 in x0()) * 495 - (619 - 507)
+      in
+      x0
+    in
+    let x1 = 800 in x0
+  )

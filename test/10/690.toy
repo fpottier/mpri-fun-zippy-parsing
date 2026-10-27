@@ -1,0 +1,17 @@
+(
+  430 -
+    (
+      for x0 from
+        106
+      to
+        106 + 1
+      sum
+        x0 *
+          (
+            let x1 =
+              640
+            in
+            x0 - (let x2 = 415 in x2) * (for x2 from x1 to x1 + 4 sum x0)
+          )
+    )
+) / (let x0 = 34 in x0)

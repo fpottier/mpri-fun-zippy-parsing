@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = 485 in x0 / (x0 / x0)
+in
+let x1 =
+  fun (x0, x1, x2) -> 202
+in
+let x2 = let x2 = x1(x0, x0, 562 / x0) in x0 in x1(x2, x2, 800)

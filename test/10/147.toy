@@ -1,0 +1,13 @@
+let x0 =
+  fun (x0) -> 428
+in
+364 /
+  (for x1 from 416 to 416 + 1 sum x1) *
+  (
+    for x1 from
+      386
+    to
+      386 + 3
+    sum
+      let x2 = x0(x0(let x2 = 704 in 638)) in x0(x1)
+  )

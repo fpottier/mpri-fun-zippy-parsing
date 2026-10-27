@@ -1,0 +1,10 @@
+let x0 =
+  173
+in
+(
+  let x1 =
+    let x1 = 741 in let x2 = let x2 = fun (x0) -> 747 in x1 in x0
+  in
+  x1
+) -
+  (let x1 = let x1 = x0 in x0 in let x2 = let x2 = x1 in x1 in x2)

@@ -1,0 +1,12 @@
+622 /
+  (
+    for x0 from
+      405
+    to
+      405 + 0
+    sum
+      let x1 =
+        let x1 = for x1 from x0 to x0 + 1 sum x1 in x1
+      in
+      x1 + x1
+  ) + (let x0 = let x0 = 894 in x0 in x0 + x0)

@@ -1,0 +1,5 @@
+let x0 =
+  (for x0 from 524 to 524 + 3 sum x0) +
+    (let x0 = for x0 from 714 to 714 + 0 sum 448 * 93 in 738)
+in
+(let x1 = let x1 = x0 in x0 in x0) + (let x1 = x0 in x1)

@@ -1,0 +1,7 @@
+(
+  let x0 =
+    fun (x0, x1) -> (let x2 = x1 in 29) / x1
+  in
+  let x1 = 529 in x1
+) /
+  ((let x0 = fun (x0) -> 143 in 433) / 583 * (let x0 = 423 in x0))

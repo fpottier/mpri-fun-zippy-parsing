@@ -1,0 +1,9 @@
+(for x0 from 969 to 969 + 4 sum x0 * x0 - (977 + x0)) -
+  (
+    for x0 from
+      197
+    to
+      197 + 0
+    sum
+      478 - (let x1 = 349 in x1) * (let x1 = x0 in x1)
+  )

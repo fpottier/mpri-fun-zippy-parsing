@@ -1,0 +1,10 @@
+let x0 =
+  840
+in
+x0 /
+  (
+    let x1 =
+      let x1 = 522 in let x2 = let x2 = fun (x0) -> 116 in x1 in x2
+    in
+    let x2 = x1 in let x3 = let x3 = 711 in x3 in x0 - x2
+  )

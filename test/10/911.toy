@@ -1,0 +1,17 @@
+for x0 from
+  243
+to
+  243 + 1
+sum
+  for x1 from
+    x0
+  to
+    x0 + 3
+  sum
+    (let x2 = let x2 = x0 in x2 in x0) -
+      (
+        let x2 =
+          fun (x2, x3) -> let x4 = x3 in x0
+        in
+        let x3 = x0 - x0 in x1
+      )

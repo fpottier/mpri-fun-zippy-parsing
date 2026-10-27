@@ -1,0 +1,9 @@
+let x0 =
+  929
+in
+x0 * x0 +
+  (258 - 524) /
+    (
+      (let x1 = x0 in for x2 from x1 to x1 + 3 sum x1) -
+        (let x1 = fun (x0) -> 427 in let x2 = x1 in x0)
+    )

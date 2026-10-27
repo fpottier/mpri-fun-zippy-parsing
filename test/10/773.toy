@@ -1,0 +1,12 @@
+let x0 =
+  524 * 591
+in
+for x1 from
+  x0
+to
+  x0 + 2
+sum
+  let x2 =
+    x1 - ((let x2 = x1 in let x3 = x0 in 378) + (let x2 = x1 in x2))
+  in
+  let x3 = x1 in x3

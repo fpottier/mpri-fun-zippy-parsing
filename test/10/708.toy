@@ -1,0 +1,8 @@
+922 +
+  (let x0 = fun (x0) -> 978 in 311) +
+  (
+    let x0 =
+      let x0 = fun (x0) -> 211 in let x1 = let x1 = 0 in 809 in x1
+    in
+    let x1 = let x1 = x0 in x0 in x0
+  )

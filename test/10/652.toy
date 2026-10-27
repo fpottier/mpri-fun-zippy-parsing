@@ -1,0 +1,14 @@
+let x0 =
+  278
+in
+(
+  let x1 =
+    let x1 = fun (x1, x2, x3, x4) -> let x5 = x1 in x2 in 164
+  in
+  for x2 from
+    x0
+  to
+    x0 + 2
+  sum
+    for x3 from x0 to x0 + 4 sum x2 + x1
+) - (let x1 = 659 in x0)

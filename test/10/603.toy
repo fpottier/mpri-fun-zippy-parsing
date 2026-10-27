@@ -1,0 +1,12 @@
+let x0 =
+  (let x0 = 386 in x0) -
+    (
+      (let x0 = 42 in x0) / (let x0 = 525 in let x1 = 752 in x1) - 16
+    )
+in
+for x1 from
+  387
+to
+  387 + 2
+sum
+  let x2 = fun (x0, x1) -> 866 in x0

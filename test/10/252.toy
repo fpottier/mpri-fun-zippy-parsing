@@ -1,0 +1,6 @@
+(
+  let x0 =
+    fun (x0) -> x0 / ((for x1 from 51 to 51 + 3 sum 584) + x0 - x0)
+  in
+  x0(221)
+) * (let x0 = let x0 = fun (x0) -> 196 in 449 in x0)

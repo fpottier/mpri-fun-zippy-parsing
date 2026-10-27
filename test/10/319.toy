@@ -1,0 +1,8 @@
+let x0 =
+  999
+in
+(let x1 = 803 in x0) -
+  (
+    (let x1 = x0 - x0 in x1 - x1) +
+      (let x1 = let x1 = x0 in x0 in x1 * x1)
+  )

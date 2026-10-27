@@ -1,0 +1,10 @@
+let x0 =
+  let x0 = 818 in let x1 = 318 * (let x1 = x0 in x1) in x1
+in
+let x1 =
+  let x1 =
+    x0
+  in
+  for x2 from x1 to x1 + 0 sum (let x3 = x1 in 778) / 801
+in
+x1

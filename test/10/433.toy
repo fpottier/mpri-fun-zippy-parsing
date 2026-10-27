@@ -1,0 +1,12 @@
+(
+  for x0 from
+    344
+  to
+    344 + 3
+  sum
+    let x1 =
+      x0
+    in
+    (let x2 = x1 in (let x3 = x0 * x0 in x3) * x0) +
+      (for x2 from 721 to 721 + 3 sum x0)
+) + 403 + 819

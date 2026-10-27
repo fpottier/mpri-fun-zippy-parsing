@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    630
+  in
+  (let x1 = x0 in (let x2 = x1 in x2) / (x0 - x1)) - x0 / x0
+in
+for x1 from 178 to 178 + 1 sum let x2 = x1 in x1

@@ -1,0 +1,4 @@
+let x0 =
+  let x0 = 382 - 107 * 689 in let x1 = x0 in x0 + x1
+in
+(for x1 from x0 to x0 + 3 sum let x2 = x1 in x2 * x0) - x0

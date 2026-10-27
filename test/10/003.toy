@@ -1,0 +1,10 @@
+(let x0 = (let x0 = 348 in x0) - 406 in 134) *
+  (
+    let x0 =
+      862
+    in
+    let x1 =
+      x0
+    in
+    let x2 = let x2 = fun (x0) -> 744 in 910 - 604 in x1 - x2
+  )

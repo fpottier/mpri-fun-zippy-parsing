@@ -1,0 +1,6 @@
+((let x0 = 1017 in x0 - x0) - 913) /
+  (
+    (
+      let x0 = for x0 from 462 to 462 + 1 sum x0 in let x1 = x0 in x0
+    ) / (for x0 from 352 to 352 + 3 sum let x1 = x0 in x0)
+  )

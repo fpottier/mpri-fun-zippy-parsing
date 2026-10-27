@@ -1,0 +1,9 @@
+(648 * (for x0 from 922 to 922 + 1 sum x0) + 299 / 541) /
+  (
+    for x0 from
+      264
+    to
+      264 + 2
+    sum
+      x0 - (let x1 = let x1 = 914 in let x2 = x1 in x0 in x0)
+  )

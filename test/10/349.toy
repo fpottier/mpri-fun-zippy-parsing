@@ -1,0 +1,9 @@
+(
+  let x0 =
+    let x0 =
+      for x0 from 555 to 555 + 1 sum 302 / 791
+    in
+    let x1 = 460 in x1
+  in
+  366 / (x0 * x0)
+) + (let x0 = 300 in let x1 = x0 in x0)

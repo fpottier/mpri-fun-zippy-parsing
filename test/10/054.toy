@@ -1,0 +1,10 @@
+let x0 =
+  for x0 from 510 to 510 + 2 sum x0 * x0
+in
+let x1 =
+  fun (x0) -> 466
+in
+let x2 =
+  fun (x2, x3) -> x2
+in
+let x3 = let x3 = x0 in x1(x2(181, x0)) in x0

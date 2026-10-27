@@ -1,0 +1,6 @@
+(
+  let x0 =
+    451 + 79
+  in
+  (for x1 from x0 to x0 + 0 sum let x2 = x1 in x1) - 540
+) - (let x0 = 998 in let x1 = let x1 = x0 * x0 in 687 in x1)

@@ -1,0 +1,7 @@
+(let x0 = fun () -> let x0 = fun (x0) -> 913 in 921 in x0()) +
+  (
+    let x0 =
+      let x0 = fun (x0, x1) -> 737 in let x1 = x0 in let x2 = 13 in x2
+    in
+    x0 - (for x1 from x0 to x0 + 1 sum x0)
+  )

@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = let x0 = 758 in x0 in 970
+in
+let x1 =
+  (let x1 = fun (x1) -> x1 in x0) * (x0 / (28 + x0))
+in
+x0 - x1

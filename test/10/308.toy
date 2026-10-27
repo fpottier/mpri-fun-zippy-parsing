@@ -1,0 +1,16 @@
+let x0 =
+  let x0 =
+    fun
+    (
+      x0,
+      x1
+    )
+    ->
+      (let x2 = fun (x0, x1) -> 575 in let x3 = x1 in 179) + x1
+  in
+  568
+in
+let x1 =
+  let x1 = fun (x0) -> 65 in x0 / x0
+in
+for x2 from x1 to x1 + 1 sum 176

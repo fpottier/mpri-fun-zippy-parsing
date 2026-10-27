@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    fun () -> 738
+  in
+  let x1 =
+    x0() * (for x1 from 337 to 337 + 2 sum x0())
+  in
+  x1 + x1 - (let x2 = x0() in 67)
+in
+let x1 = fun (x1) -> x1 in 924

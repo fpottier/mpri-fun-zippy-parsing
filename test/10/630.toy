@@ -1,0 +1,13 @@
+for x0 from
+  712
+to
+  712 + 0
+sum
+  (
+    382 +
+      (let x1 = fun (x0, x1) -> 862 in x1(724, 925)) -
+      (let x1 = 377 in x0)
+  ) /
+    (
+      for x1 from 871 to 871 + 2 sum let x2 = x1 in let x3 = x2 in x2
+    )

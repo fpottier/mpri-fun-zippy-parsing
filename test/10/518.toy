@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = 202 in x0 * 575
+in
+let x1 =
+  x0 / 272
+in
+(let x2 = x0 in x0 / x1 * x1) + (let x2 = 715 in x1)

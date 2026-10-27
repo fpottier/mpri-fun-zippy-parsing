@@ -1,0 +1,11 @@
+for x0 from
+  621
+to
+  621 + 1
+sum
+  (
+    let x1 =
+      let x1 = x0 in x1
+    in
+    x0 * (let x2 = x0 in let x3 = x0 in let x4 = 303 in x4)
+  ) + (for x1 from x0 to x0 + 2 sum x1 * x0)

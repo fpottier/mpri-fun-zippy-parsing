@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = 405 + 594 in 170
+in
+let x1 =
+  let x1 = 998 / 368 + x0 in x1 / (x1 / 285)
+in
+let x2 = x1 in x1

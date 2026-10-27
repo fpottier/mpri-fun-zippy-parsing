@@ -1,0 +1,9 @@
+(
+  let x0 =
+    fun (x0, x1, x2) -> 359
+  in
+  (let x1 = 661 * x0(33, 48, 165) in x1) + 847
+) +
+  (
+    let x0 = 527 in 708 * ((for x1 from 435 to 435 + 3 sum 93) - x0)
+  )

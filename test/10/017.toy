@@ -1,0 +1,6 @@
+(let x0 = let x0 = 566 in 586 in 160) *
+  (
+    (let x0 = 87 in x0) -
+      ((let x0 = 1013 in x0) + (let x0 = 73 in let x1 = 827 in x0)) /
+        953
+  )

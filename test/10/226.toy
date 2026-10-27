@@ -1,0 +1,5 @@
+let x0 =
+  (for x0 from 474 to 474 + 4 sum let x1 = x0 in x1) +
+    (let x0 = 137 in x0 / 678)
+in
+let x1 = fun () -> 719 in (let x2 = x1() in x0) + 659 * 916

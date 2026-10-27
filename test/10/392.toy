@@ -1,0 +1,12 @@
+let x0 =
+  515
+in
+let x1 =
+  (
+    let x1 =
+      (let x1 = x0 in 721) - 42
+    in
+    for x2 from x1 to x1 + 1 sum let x3 = x2 in x1
+  ) / x0
+in
+(let x2 = x1 in 518) + 976

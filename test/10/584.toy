@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    656 * (864 / 72)
+  in
+  let x1 =
+    fun (x1, x2) -> let x3 = fun (x3, x4, x5, x6) -> x1 in x1
+  in
+  x0
+in
+x0 + x0 + 544

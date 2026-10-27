@@ -1,0 +1,12 @@
+let x0 =
+  let x0 = 548 in 1022
+in
+let x1 =
+  404 * x0
+in
+x1 /
+  (
+    (
+      let x2 = fun (x0) -> 509 in x2(let x3 = let x3 = x0 in x1 in x1)
+    ) / 90
+  )

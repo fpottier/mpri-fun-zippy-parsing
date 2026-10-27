@@ -1,0 +1,5 @@
+(let x0 = for x0 from 460 to 460 + 0 sum x0 in x0) /
+  (
+    (449 + 193) *
+      (let x0 = ((let x0 = 804 in x0) + (520 + 1008)) / 340 in x0)
+  )

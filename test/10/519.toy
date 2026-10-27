@@ -1,0 +1,7 @@
+(
+  let x0 =
+    (let x0 = let x0 = fun (x0) -> 696 in 969 in x0) -
+      (904 - 770) * (let x0 = 741 in x0)
+  in
+  x0 / x0
+) - 612 * 864

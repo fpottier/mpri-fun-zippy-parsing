@@ -1,0 +1,7 @@
+(for x0 from 16 to 16 + 0 sum let x1 = fun (x0) -> 348 in x0) -
+  (
+    let x0 =
+      let x0 = 656 + 150 in x0
+    in
+    let x1 = x0 in let x2 = x0 - (let x2 = x1 in x1) in x2
+  )

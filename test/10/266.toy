@@ -1,0 +1,13 @@
+let x0 =
+  let x0 =
+    918 * 219
+  in
+  let x1 =
+    716 / x0
+  in
+  let x2 =
+    for x2 from x1 to x1 + 1 sum x1
+  in
+  for x3 from x0 to x0 + 3 sum x1 - x2
+in
+for x1 from 948 to 948 + 2 sum x0

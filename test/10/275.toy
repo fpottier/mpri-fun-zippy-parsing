@@ -1,0 +1,2 @@
+(let x0 = (989 + 550) * (let x0 = 619 in x0) in x0 + 749) +
+  (let x0 = let x0 = 971 in 10 * (let x1 = 938 in x1) in x0)

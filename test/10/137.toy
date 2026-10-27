@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    (423 + 48 - 306) * 256
+  in
+  let x1 = (let x1 = 336 in x0) / (let x1 = x0 in x1) in x0
+in
+let x1 = 566 in x0

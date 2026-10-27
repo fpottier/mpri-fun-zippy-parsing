@@ -1,0 +1,12 @@
+let x0 =
+  (let x0 = 283 * (579 + 736) in x0) / (557 * 444)
+in
+x0 -
+  (
+    for x1 from
+      x0
+    to
+      x0 + 0
+    sum
+      for x2 from 207 to 207 + 1 sum x1 * x1
+  )

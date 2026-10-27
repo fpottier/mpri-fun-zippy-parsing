@@ -1,0 +1,7 @@
+(let x0 = fun (x0) -> 534 in 676 * (598 - 321)) +
+  (
+    let x0 =
+      for x0 from 661 to 661 + 1 sum let x1 = x0 in x1
+    in
+    let x1 = for x1 from 853 to 853 + 4 sum x1 in x0
+  ) / 497

@@ -1,0 +1,11 @@
+(
+  let x0 =
+    let x0 = let x0 = 1012 in x0 in 937 - x0 * x0
+  in
+  for x1 from
+    x0
+  to
+    x0 + 2
+  sum
+    let x2 = fun (x0, x1, x2, x3) -> 812 in let x3 = 751 in x3
+) / (let x0 = fun (x0, x1) -> 537 in 592)

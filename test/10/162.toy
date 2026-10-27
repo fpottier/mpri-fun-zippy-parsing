@@ -1,0 +1,7 @@
+let x0 =
+  (let x0 = fun (x0) -> x0 in for x1 from 470 to 470 + 1 sum x1) -
+    (
+      484 * (943 - 499) + ((for x0 from 163 to 163 + 1 sum x0) - 615)
+    )
+in
+x0

@@ -1,0 +1,10 @@
+(let x0 = 457 in 844 * 489) *
+  (
+    let x0 =
+      let x0 =
+        419 / (let x0 = 1000 in x0)
+      in
+      let x1 = fun (x0) -> 480 in let x2 = x0 in x0
+    in
+    let x1 = 490 in x0
+  )

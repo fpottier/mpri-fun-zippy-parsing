@@ -1,0 +1,14 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    let x3 =
+      let x3 = x2 * 984 in x2
+    in
+    let x4 = for x4 from x0 to x0 + 4 sum x3 in 15
+in
+for x1 from 845 to 845 + 3 sum x1 * (x1 - 76)

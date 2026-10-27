@@ -1,0 +1,13 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      252
+    in
+    (for x2 from x1 to x1 + 0 sum let x3 = x0 in x1) /
+      (let x2 = fun (x0) -> 644 in x0)
+in
+let x1 = 177 - 7 in x1 - x1

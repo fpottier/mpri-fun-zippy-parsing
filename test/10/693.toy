@@ -1,0 +1,13 @@
+for x0 from
+  302
+to
+  302 + 0
+sum
+  (
+    (
+      let x1 =
+        997
+      in
+      for x2 from x1 to x1 + 3 sum x0 + (let x3 = 291 in 248)
+    ) - (479 + x0)
+  ) * (let x1 = fun (x0, x1) -> 685 in let x2 = x0 in x2)

@@ -1,0 +1,18 @@
+let x0 =
+  for x0 from
+    396
+  to
+    396 + 2
+  sum
+    let x1 =
+      x0 / 306
+    in
+    let x2 =
+      let x2 = x0 / x0 + x1 in x2
+    in
+    let x3 =
+      fun (x0, x1, x2) -> 692
+    in
+    let x4 = fun (x0, x1) -> 76 in x2
+in
+x0

@@ -1,0 +1,7 @@
+(for x0 from 471 to 471 + 4 sum x0 * x0) /
+  (
+    let x0 =
+      379 * (let x0 = (let x0 = 112 in x0) * 132 in let x1 = x0 in x1)
+    in
+    589
+  ) - 857

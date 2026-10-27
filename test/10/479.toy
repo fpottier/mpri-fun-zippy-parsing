@@ -1,0 +1,13 @@
+let x0 =
+  338 *
+    (
+      (
+        for x0 from 227 to 227 + 1 sum for x1 from 400 to 400 + 2 sum x0
+      ) +
+        (
+          (for x0 from 949 to 949 + 2 sum x0) -
+            ((for x0 from 441 to 441 + 0 sum x0) + 849) * 407
+        )
+    )
+in
+x0

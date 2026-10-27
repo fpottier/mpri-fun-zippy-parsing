@@ -1,0 +1,10 @@
+let x0 =
+  let x0 = 699 in x0
+in
+let x1 =
+  let x1 =
+    for x1 from x0 to x0 + 2 sum x0 + x1 * x1
+  in
+  let x2 = x1 in x1
+in
+604 - (let x2 = x0 in x2)

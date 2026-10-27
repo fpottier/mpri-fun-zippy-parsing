@@ -1,0 +1,12 @@
+let x0 =
+  for x0 from
+    531
+  to
+    531 + 0
+  sum
+    x0 / (let x1 = let x1 = 609 in x1 in x1)
+in
+let x1 =
+  for x1 from x0 to x0 + 3 sum x0
+in
+let x2 = x0 + (let x2 = x1 in x2) in x0

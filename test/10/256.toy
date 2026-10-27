@@ -1,0 +1,16 @@
+for x0 from
+  48
+to
+  48 + 4
+sum
+  (
+    (
+      for x1 from
+        x0
+      to
+        x0 + 2
+      sum
+        let x2 = fun (x0) -> 28 in let x3 = x0 in x0
+    ) + (let x1 = fun (x0) -> 411 in x0)
+  ) /
+    (let x1 = for x1 from x0 to x0 + 1 sum let x2 = x0 in x2 in 994)

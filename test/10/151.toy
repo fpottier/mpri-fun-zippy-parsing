@@ -1,0 +1,10 @@
+(for x0 from 562 to 562 + 2 sum x0) +
+  (
+    let x0 =
+      289
+    in
+    let x1 =
+      fun (x1, x2) -> let x3 = x0 in x3
+    in
+    x1((x0 - 810) / 198, x0 + x0)
+  )

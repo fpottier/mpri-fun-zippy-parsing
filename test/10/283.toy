@@ -1,0 +1,10 @@
+233 *
+  (let x0 = 296 / 500 in let x1 = 1012 in let x2 = 27 in x2) /
+  (
+    for x0 from
+      302
+    to
+      302 + 1
+    sum
+      392 + (let x1 = fun () -> 285 in 381)
+  ) / 124

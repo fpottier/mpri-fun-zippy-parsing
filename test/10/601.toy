@@ -1,0 +1,12 @@
+(let x0 = 120 in x0) -
+  (
+    let x0 =
+      581
+    in
+    (
+      let x1 =
+        fun (x1) -> (for x2 from x1 to x1 + 0 sum x1) / 185
+      in
+      let x2 = 211 in x0
+    ) / (let x1 = x0 in x0)
+  )

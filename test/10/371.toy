@@ -1,0 +1,7 @@
+(
+  let x0 =
+    731 +
+      357 - (for x0 from 124 to 124 + 3 sum (let x1 = x0 in x0) - x0)
+  in
+  let x1 = let x1 = x0 in x0 in for x2 from x0 to x0 + 2 sum x0
+) - 795

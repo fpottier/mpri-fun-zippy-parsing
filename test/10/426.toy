@@ -1,0 +1,19 @@
+for x0 from
+  62
+to
+  62 + 2
+sum
+  (
+    for x1 from
+      x0
+    to
+      x0 + 4
+    sum
+      let x2 = fun (x2) -> x2 in let x3 = 742 in x3 - 455
+  ) /
+    (
+      let x1 =
+        for x1 from 1014 to 1014 + 3 sum let x2 = x0 in x1
+      in
+      x1
+    )

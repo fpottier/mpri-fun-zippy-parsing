@@ -1,0 +1,12 @@
+for x0 from
+  967
+to
+  967 + 0
+sum
+  let x1 =
+    (
+      677 / (440 - 990) +
+        (let x1 = x0 in let x2 = let x2 = x1 in 401 in x2)
+    ) / x0
+  in
+  let x2 = x1 in x1

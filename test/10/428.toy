@@ -1,0 +1,9 @@
+684 /
+  898 /
+  (let x0 = 41 in for x1 from x0 to x0 + 1 sum x1 / x0) *
+  (
+    let x0 =
+      213
+    in
+    for x1 from x0 to x0 + 0 sum 873 - (let x2 = x0 in 69)
+  )

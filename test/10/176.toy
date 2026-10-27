@@ -1,0 +1,10 @@
+(let x0 = fun (x0) -> 17 in 631) /
+  (
+    let x0 =
+      let x0 =
+        620 / (let x0 = 988 - 194 in x0)
+      in
+      let x1 = 411 in let x2 = fun (x0, x1) -> 630 in x1
+    in
+    let x1 = 477 in 754
+  )

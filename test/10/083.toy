@@ -1,0 +1,14 @@
+(
+  for x0 from
+    708
+  to
+    708 + 4
+  sum
+    (let x1 = x0 * x0 in x1) +
+      (
+        let x1 =
+          fun (x1) -> 642
+        in
+        x0 / (let x2 = fun (x0, x1) -> 60 in x2(x0, x0))
+      )
+) + 169

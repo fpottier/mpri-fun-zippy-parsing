@@ -1,0 +1,6 @@
+(let x0 = 910 in let x1 = for x1 from x0 to x0 + 4 sum x1 in x0)
+  -
+  (
+    (let x0 = 118 in x0) -
+      697 - ((let x0 = 99 in 49) - (let x0 = fun () -> 518 in x0()))
+  )

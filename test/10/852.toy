@@ -1,0 +1,15 @@
+(
+  for x0 from
+    863
+  to
+    863 + 0
+  sum
+    (let x1 = fun (x0, x1) -> 751 in x0) *
+      (449 - (let x1 = x0 in x1))
+) *
+  (
+    let x0 =
+      608 * (for x0 from 370 to 370 + 1 sum x0)
+    in
+    let x1 = x0 in x1
+  )

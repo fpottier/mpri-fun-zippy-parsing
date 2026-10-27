@@ -1,0 +1,130 @@
+
+(rule (target 000.out) (deps 000.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 000.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 000.exp 000.out))
+)
+
+(rule (target 001.out) (deps 001.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 001.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 001.exp 001.out))
+)
+
+(rule (target 002.out) (deps 002.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 002.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 002.exp 002.out))
+)
+
+(rule (target 003.out) (deps 003.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 003.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 003.exp 003.out))
+)
+
+(rule (target 004.out) (deps 004.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 004.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 004.exp 004.out))
+)
+
+(rule (target 005.out) (deps 005.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 005.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 005.exp 005.out))
+)
+
+(rule (target 006.out) (deps 006.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 006.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 006.exp 006.out))
+)
+
+(rule (target 007.out) (deps 007.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 007.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 007.exp 007.out))
+)
+
+(rule (target 008.out) (deps 008.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 008.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 008.exp 008.out))
+)
+
+(rule (target 009.out) (deps 009.toy)
+  (action
+    (with-stdin-from %{deps}
+    (with-outputs-to 009.out
+    (with-accepted-exit-codes 0
+    (run ../../src/main.exe interpret)
+)))))
+
+(rule
+  (alias runtest)
+  (action (diff 009.exp 009.out))
+)

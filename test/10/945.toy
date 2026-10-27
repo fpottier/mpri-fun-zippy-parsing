@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    (for x0 from 344 to 344 + 0 sum 296) + 764
+  in
+  let x1 = fun (x0, x1) -> 742 in x0
+in
+x0 - x0 - (x0 + (let x1 = x0 * x0 in x1))

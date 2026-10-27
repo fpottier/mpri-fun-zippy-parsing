@@ -1,0 +1,12 @@
+let x0 =
+  259 *
+    (for x0 from 702 to 702 + 1 sum let x1 = fun (x0) -> 1009 in x0)
+    *
+    (
+      let x0 =
+        fun (x0) -> let x1 = x0 in for x2 from x0 to x0 + 1 sum x2
+      in
+      x0(830)
+    )
+in
+x0

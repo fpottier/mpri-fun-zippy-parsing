@@ -1,0 +1,9 @@
+for x0 from
+  906
+to
+  906 + 0
+sum
+  let x1 =
+    for x1 from x0 to x0 + 3 sum (x0 - 142) * (x1 + 725)
+  in
+  x1 * ((x1 - x0) * (let x2 = x1 in x2))

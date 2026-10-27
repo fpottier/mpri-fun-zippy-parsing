@@ -1,0 +1,9 @@
+(
+  let x0 =
+    let x0 =
+      let x0 = fun (x0, x1) -> 593 in 141
+    in
+    let x1 = fun (x1) -> let x2 = x1 in x0 in x0
+  in
+  for x1 from x0 to x0 + 3 sum x0 + (let x2 = 478 in x1)
+) / 420

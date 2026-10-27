@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> let x1 = let x1 = x0 in x1 in x0 * x1
+  in
+  (814 - x0(355)) * 232
+in
+let x1 = x0 in x1

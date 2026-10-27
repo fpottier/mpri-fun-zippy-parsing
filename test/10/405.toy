@@ -1,0 +1,10 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1
+  )
+  ->
+    let x2 = let x2 = 800 in let x3 = x1 in x3 in x2 - x0
+in
+265 - (for x1 from 832 to 832 + 2 sum x1 * (175 + x1))

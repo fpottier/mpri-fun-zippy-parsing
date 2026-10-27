@@ -1,0 +1,6 @@
+(
+  let x0 =
+    fun (x0, x1, x2) -> x2 * x1
+  in
+  x0(516, 370, let x1 = 919 in x1 * 905)
+) - ((for x0 from 801 to 801 + 1 sum x0) + (let x0 = 567 in 88))

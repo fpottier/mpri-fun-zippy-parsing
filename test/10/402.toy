@@ -1,0 +1,12 @@
+let x0 =
+  for x0 from
+    520
+  to
+    520 + 1
+  sum
+    let x1 =
+      fun (x0) -> 22
+    in
+    let x2 = fun (x2) -> x1(let x3 = x2 in x3) in x1(x0)
+in
+for x1 from 346 to 346 + 4 sum let x2 = x1 in x0

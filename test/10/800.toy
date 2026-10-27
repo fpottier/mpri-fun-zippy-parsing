@@ -1,0 +1,6 @@
+(
+  let x0 =
+    629
+  in
+  let x1 = 95 in let x2 = let x2 = 26 + x0 in x1 + x2 in x1
+) - 505 * (let x0 = let x0 = 41 in x0 in 401)

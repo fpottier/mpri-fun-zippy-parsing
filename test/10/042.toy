@@ -1,0 +1,12 @@
+let x0 =
+  928
+in
+for x1 from
+  x0
+to
+  x0 + 3
+sum
+  let x2 =
+    let x2 = fun (x0) -> 917 in x2(x0)
+  in
+  x1 / (let x3 = let x3 = x2 in (let x4 = x3 in x4) * x1 in x3)

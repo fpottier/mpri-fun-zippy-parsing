@@ -1,0 +1,7 @@
+let x0 =
+  for x0 from 694 to 694 + 1 sum 957 * 809 - x0 * x0
+in
+let x1 =
+  fun (x1, x2) -> let x3 = let x3 = 704 in x1 in x1 + x2
+in
+x0

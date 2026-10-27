@@ -1,0 +1,4 @@
+let x0 =
+  let x0 = fun (x0) -> 573 in let x1 = fun (x1) -> 626 in x0(823)
+in
+let x1 = let x1 = 272 in x1 - x0 in x0 + x1

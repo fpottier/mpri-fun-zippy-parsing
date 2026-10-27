@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = let x0 = 379 in x0 in let x1 = x0 in x1
+in
+let x1 =
+  fun (x0) -> 530
+in
+let x2 = x0 / x0 in x1(x0) / (let x3 = x0 in x2)

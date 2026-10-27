@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = 35 in x0
+in
+let x1 =
+  (let x1 = 349 in 98) / (let x1 = x0 in let x2 = x1 in x0)
+in
+(let x2 = let x2 = x0 in x2 in x0) + x1

@@ -1,0 +1,7 @@
+let x0 =
+  (for x0 from 190 to 190 + 2 sum let x1 = x0 in x1) * 211
+in
+let x1 =
+  187 - x0
+in
+x1 + (let x2 = 961 in x1) - (let x2 = x1 in 416)

@@ -1,0 +1,13 @@
+let x0 =
+  553
+in
+let x1 =
+  x0 /
+    (
+      let x1 =
+        let x1 = x0 in 117 * 765
+      in
+      let x2 = fun (x0) -> 1023 in x1
+    )
+in
+let x2 = let x2 = 509 in x2 - x0 in x2

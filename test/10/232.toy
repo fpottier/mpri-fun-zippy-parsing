@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    let x0 =
+      fun (x0) -> 488 / 221
+    in
+    37 - (let x1 = fun (x0, x1) -> 921 in 224)
+  in
+  x0 + x0
+in
+(let x1 = 38 in x1) / x0

@@ -1,0 +1,12 @@
+for x0 from
+  645
+to
+  645 + 3
+sum
+  ((let x1 = x0 in 1012) - (x0 - 425) * x0) /
+    (
+      let x1 =
+        let x1 = x0 in let x2 = 50 in 732
+      in
+      for x2 from x1 to x1 + 2 sum x1
+    )

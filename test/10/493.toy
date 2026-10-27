@@ -1,0 +1,9 @@
+let x0 =
+  462
+in
+let x1 =
+  let x1 = x0 in x0
+in
+(
+  x1 + (for x2 from x0 to x0 + 4 sum x2) * (526 / (x0 + 154) * x1)
+) / x1

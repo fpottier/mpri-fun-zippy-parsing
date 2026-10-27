@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = fun (x0, x1) -> x1 in 852 * 337
+in
+let x1 =
+  let x1 = 312 in 879
+in
+let x2 = fun (x2) -> x1 - x2 in x2(x0)

@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = 570 + 737 in 261
+in
+let x1 =
+  fun (x1) -> for x2 from x1 to x1 + 2 sum 709
+in
+let x2 = x1(456 * x1(626)) in x0

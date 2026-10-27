@@ -1,0 +1,17 @@
+let x0 =
+  let x0 =
+    313
+  in
+  for x1 from
+    x0
+  to
+    x0 + 3
+  sum
+    for x2 from
+      x0
+    to
+      x0 + 2
+    sum
+      let x3 = x2 in let x4 = fun (x0) -> 228 in let x5 = x0 in x0
+in
+(let x1 = x0 in x0 + 869) * x0

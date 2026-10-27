@@ -1,0 +1,9 @@
+let x0 =
+  let x0 = 410 in x0
+in
+let x1 =
+  x0
+in
+(let x2 = let x2 = (let x2 = x0 in x2) * (696 / x0) in x1 in x2)
+  +
+  (let x2 = x0 in x2)

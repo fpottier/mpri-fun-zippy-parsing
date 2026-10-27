@@ -1,0 +1,10 @@
+let x0 =
+  (let x0 = fun (x0, x1) -> 362 * x0 in 427 / 80) +
+    (
+      let x0 =
+        let x0 = for x0 from 428 to 428 + 3 sum x0 in 201
+      in
+      1021
+    )
+in
+let x1 = x0 in x1

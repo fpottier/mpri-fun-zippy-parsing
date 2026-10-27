@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    347
+  in
+  let x1 =
+    let x1 = x0 in let x2 = x0 in x2
+  in
+  let x2 = x0 in (x1 + x0) / (let x3 = let x3 = 487 in x0 in x2)
+in
+567

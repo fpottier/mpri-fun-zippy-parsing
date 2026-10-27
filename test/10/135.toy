@@ -1,0 +1,10 @@
+let x0 =
+  (for x0 from 995 to 995 + 1 sum 224 - x0) /
+    (
+      let x0 =
+        fun (x0) -> let x1 = x0 in let x2 = x0 in x1
+      in
+      x0(x0(579))
+    )
+in
+x0

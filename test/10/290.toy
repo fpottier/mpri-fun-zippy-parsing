@@ -1,0 +1,11 @@
+for x0 from
+  167
+to
+  167 + 2
+sum
+  for x1 from
+    572
+  to
+    572 + 3
+  sum
+    let x2 = x0 / 569 / ((x1 * (x1 - x1) + x1) * x1 / x1) in x0

@@ -1,0 +1,8 @@
+(
+  for x0 from
+    377
+  to
+    377 + 1
+  sum
+    x0 - x0 + x0 - 737 * (let x1 = fun (x1) -> x1 + x0 in x0)
+) / (393 + 728)

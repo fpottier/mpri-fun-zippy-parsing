@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> let x1 = x0 * x0 in x1
+  in
+  906 / (let x1 = 258 in x1)
+in
+let x1 = for x1 from 328 to 328 + 3 sum x0 in let x2 = 399 in x1

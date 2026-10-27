@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = let x0 = 134 in let x1 = 604 in x0 in 98
+  in
+  378 * (for x1 from x0 to x0 + 1 sum x0 - 652)
+in
+x0 - (let x1 = 258 in x0)

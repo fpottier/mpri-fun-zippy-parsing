@@ -1,0 +1,12 @@
+(let x0 = fun (x0, x1) -> x1 in 114 + 221) /
+  (
+    for x0 from
+      44
+    to
+      44 + 2
+    sum
+      let x1 =
+        156
+      in
+      (let x2 = fun (x0) -> 778 in x0) + (let x2 = x0 in x1 * x1)
+  )

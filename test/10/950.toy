@@ -1,0 +1,12 @@
+for x0 from
+  855
+to
+  855 + 1
+sum
+  let x1 =
+    let x1 = let x1 = 860 in 131 in let x2 = x1 in x2
+  in
+  let x2 =
+    let x2 = fun (x0) -> 930 in x1
+  in
+  let x3 = for x3 from x2 to x2 + 4 sum x0 / x2 in x3

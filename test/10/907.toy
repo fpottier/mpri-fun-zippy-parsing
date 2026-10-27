@@ -1,0 +1,4 @@
+let x0 =
+  (let x0 = let x0 = 1007 in let x1 = x0 in x1 in x0) + (69 + 529)
+in
+let x1 = 265 in let x2 = x0 * x0 in x1 - x1

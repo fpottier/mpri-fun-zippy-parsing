@@ -1,0 +1,107 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2,
+    x3
+  )
+  ->
+    let x4 =
+      let x4 =
+        (let x4 = x3 in x0) /
+          (let x4 = fun (x0, x1) -> 528 in x4(x4(x2, x1), x2 - 811))
+      in
+      let x5 =
+        let x5 =
+          let x5 =
+            (let x5 = fun (x5, x6, x7) -> let x8 = x5 in x1 in 316) / x4
+          in
+          let x6 = x4 in x0
+        in
+        x4 + (let x6 = let x6 = x0 in x2 in x0)
+      in
+      let x6 =
+        let x6 = x4 in x3
+      in
+      let x7 = x1 in let x8 = fun (x8) -> x1 in x5
+    in
+    let x5 =
+      let x5 =
+        fun
+        (
+          x5,
+          x6,
+          x7,
+          x8
+        )
+        ->
+          let x9 =
+            let x9 = (for x9 from x4 to x4 + 4 sum x4) / 1003 in x1
+          in
+          for x10 from x5 to x5 + 1 sum (x5 - (let x11 = x7 in x10)) / x3
+      in
+      (let x6 = let x6 = x4 in x4 in for x7 from x0 to x0 + 1 sum 730)
+        *
+        ((let x6 = x2 / (x3 - x2) in x0) + (x2 + 341))
+    in
+    let x6 =
+      (let x6 = x3 in x4) - x1
+    in
+    let x7 =
+      let x7 =
+        let x7 = x3 + x4 in for x8 from x4 to x4 + 1 sum x3 + x0
+      in
+      x3 / x1
+    in
+    x0
+in
+x0(
+  (
+    let x1 =
+      for x1 from
+        645
+      to
+        645 + 0
+      sum
+        (let x2 = 88 in 215) *
+          (
+            x1 -
+              (let x2 = x1 / (let x2 = 493 in x1) in 2 - (let x3 = x2 in x2))
+          )
+    in
+    x0(x1 / (for x2 from x1 to x1 + 3 sum 721), x1, 591, x1) *
+      x0(x0(x1, x1, x1, x1), x1, x1, x1)
+  ) - 290,
+  let x1 =
+    898
+  in
+  x0(let x2 = fun (x0, x1) -> 339 in x1, x1, 904, 626),
+  let x1 =
+    252
+  in
+  x0(
+    x1,
+    911,
+    let x2 = x0(x1, x1, x1, 44) in x1 / x1,
+    x0(x1, 472, x1, x1)
+  ),
+  let x1 =
+    x0(547, let x1 = 774 in 623, 65, 373)
+  in
+  x0(x1, x1, 676, x1)
+) /
+  (
+    let x1 =
+      let x1 =
+        994
+      in
+      x0(
+        x0(1015, x1, 505, 368),
+        let x2 = x1 in 627,
+        let x2 = 418 - 549 in x2,
+        457
+      )
+    in
+    x0(930, x1, x1, x1) - x1 / (let x2 = x1 in let x3 = x2 in x2)
+  )

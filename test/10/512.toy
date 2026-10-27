@@ -1,0 +1,9 @@
+let x0 =
+  41 + (let x0 = let x0 = fun (x0) -> 886 in 427 in x0)
+in
+for x1 from
+  x0
+to
+  x0 + 1
+sum
+  (let x2 = let x2 = fun () -> 578 in x1 in x2) * (x1 * 962)

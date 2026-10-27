@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = 536 + 10 in 249 - (let x1 = x0 in x0 + x0)
+  in
+  let x1 = let x1 = x0 in x0 in x0 + x0
+) / 762

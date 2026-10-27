@@ -1,0 +1,6 @@
+(
+  for x0 from 125 to 125 + 3 sum let x1 = let x1 = x0 in 324 in x1
+) /
+  (
+    let x0 = 821 + 380 in let x1 = x0 + x0 + x0 in let x2 = x0 in x1
+  )

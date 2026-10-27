@@ -1,0 +1,10 @@
+let x0 =
+  (let x0 = 534 in 16) /
+    (
+      let x0 =
+        (let x0 = (let x0 = 669 in x0) - 917 in 780) * 895
+      in
+      x0
+    )
+in
+(790 + x0) * x0

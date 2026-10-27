@@ -1,0 +1,5 @@
+let x0 =
+  let x0 = 743 in (for x1 from x0 to x0 + 0 sum x0) + x0
+in
+((for x1 from 592 to 592 + 4 sum x1) - x0) /
+  (let x1 = fun (x1) -> let x2 = x1 in x2 in 844)

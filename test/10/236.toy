@@ -1,0 +1,15 @@
+let x0 =
+  for x0 from
+    143
+  to
+    143 + 3
+  sum
+    (let x1 = x0 in x1 * x0) /
+      (
+        let x1 =
+          fun (x1) -> for x2 from x1 to x1 + 3 sum let x3 = x1 in 408
+        in
+        x0
+      )
+in
+let x1 = x0 in 700

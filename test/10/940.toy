@@ -1,0 +1,17 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      for x1 from
+        308
+      to
+        308 + 4
+      sum
+        let x2 = 599 - x0 in let x3 = x0 in x3
+    in
+    let x2 = let x2 = let x2 = x0 in 949 in x2 in x1
+in
+885

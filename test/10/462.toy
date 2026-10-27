@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = let x0 = 1011 / 764 in x0 in x0
+  in
+  let x1 = fun (x0, x1, x2) -> 748 in x0
+in
+((let x1 = 627 in x0) - x0) * (let x1 = x0 in 515)

@@ -1,0 +1,9 @@
+172 -
+  (
+    736 / 181 * (for x0 from 128 to 128 + 0 sum x0) +
+      249 +
+      (
+        (let x0 = 969 in let x1 = 528 in x1) +
+          (for x0 from 158 to 158 + 0 sum 297)
+      )
+  )

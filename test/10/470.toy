@@ -1,0 +1,7 @@
+(for x0 from 181 to 181 + 1 sum 510 + 278) -
+  (
+    let x0 =
+      let x0 = 770 in let x1 = let x1 = x0 in let x2 = x1 in x0 in x1
+    in
+    let x1 = fun (x1, x2) -> x2 in x0
+  )

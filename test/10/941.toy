@@ -1,0 +1,6 @@
+(let x0 = 896 in 936 / x0) /
+  (
+    462 -
+      (let x0 = 70 in x0) -
+      (let x0 = for x0 from 610 to 610 + 4 sum 238 + x0 in 0 / x0)
+  )

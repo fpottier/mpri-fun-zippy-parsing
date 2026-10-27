@@ -1,0 +1,13 @@
+let x0 =
+  (541 + 980) / (for x0 from 86 to 86 + 1 sum x0)
+in
+let x1 =
+  663
+in
+let x2 =
+  x1
+in
+let x3 =
+  (for x3 from x2 to x2 + 0 sum x3) - x1
+in
+for x4 from x2 to x2 + 0 sum x1

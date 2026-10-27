@@ -1,0 +1,10 @@
+let x0 =
+  680 +
+    989 * ((let x0 = fun (x0) -> 931 in let x1 = 44 in x1) + 672)
+in
+for x1 from
+  x0
+to
+  x0 + 1
+sum
+  let x2 = fun (x0) -> 425 in x1 - x0 - x0

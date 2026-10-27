@@ -1,0 +1,25 @@
+for x0 from
+  379
+to
+  379 + 0
+sum
+  for x1 from
+    78
+  to
+    78 + 3
+  sum
+    let x2 =
+      fun
+      (
+        x2,
+        x3
+      )
+      ->
+        (
+          let x4 =
+            x3
+          in
+          let x5 = (let x5 = 614 in x3) - x0 in let x6 = x5 in x4
+        ) / x0
+    in
+    x0

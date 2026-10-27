@@ -1,0 +1,14 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    let x3 =
+      x0 * (let x3 = let x3 = x0 in x2 in 941)
+    in
+    let x4 = x1 + x1 + (x2 - x1) in x1
+in
+346

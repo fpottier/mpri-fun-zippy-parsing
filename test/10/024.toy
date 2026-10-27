@@ -1,0 +1,7 @@
+let x0 =
+  416 + (let x0 = fun (x0) -> let x1 = 757 in x0 in 8)
+in
+let x1 =
+  x0 - (for x1 from 150 to 150 + 4 sum let x2 = x1 in 514)
+in
+967 - x0

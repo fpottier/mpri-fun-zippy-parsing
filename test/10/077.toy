@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    270 + (let x0 = 333 in x0)
+  in
+  for x1 from x0 to x0 + 2 sum (let x2 = x1 in x1) / 610 + 251
+in
+(let x1 = x0 in x0) / 973

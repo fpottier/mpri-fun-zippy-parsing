@@ -1,0 +1,3 @@
+(for x0 from 891 to 891 + 3 sum let x1 = 435 in x0 - x1) /
+  (let x0 = 462 in x0) *
+  (for x0 from 493 to 493 + 0 sum (let x1 = x0 in x1 / x0) * x0)

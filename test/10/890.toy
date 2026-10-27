@@ -1,0 +1,9 @@
+(for x0 from 499 to 499 + 2 sum let x1 = x0 in x1 - x0) -
+  (
+    for x0 from
+      1000
+    to
+      1000 + 4
+    sum
+      let x1 = x0 / 818 in let x2 = x1 in 581 + x2 - x2
+  )

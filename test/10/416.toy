@@ -1,0 +1,16 @@
+let x0 =
+  let x0 =
+    fun
+    (
+      x0,
+      x1
+    )
+    ->
+      x0 +
+        x1 /
+          (let x2 = x1 in x1) /
+          (let x2 = x1 in let x3 = fun (x0) -> 917 in 397)
+  in
+  x0(18, 160)
+in
+856

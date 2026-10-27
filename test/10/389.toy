@@ -1,0 +1,5 @@
+let x0 =
+  1009 -
+    (for x0 from 544 to 544 + 1 sum let x1 = 120 in x1) * 27 - 849
+in
+x0 + x0 / x0 / 905 / 428

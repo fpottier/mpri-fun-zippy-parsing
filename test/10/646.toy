@@ -1,0 +1,10 @@
+for x0 from
+  876
+to
+  876 + 0
+sum
+  (let x1 = 447 in x0) /
+    (
+      (let x1 = let x1 = x0 in x0 in let x2 = x0 in x0) -
+        (for x1 from x0 to x0 + 2 sum (let x2 = x0 in x1) / x1)
+    )

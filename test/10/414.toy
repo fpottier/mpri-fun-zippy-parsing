@@ -1,0 +1,10 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    (let x1 = x0 in x1 / (for x2 from x0 to x0 + 1 sum 751)) *
+      (350 + x0) * (x0 + x0)
+in
+let x1 = 887 in 690

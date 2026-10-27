@@ -1,0 +1,18 @@
+(let x0 = fun (x0) -> 352 in 470) -
+  (
+    let x0 =
+      904
+    in
+    let x1 =
+      x0
+    in
+    let x2 =
+      let x2 = fun () -> 90 in x2()
+    in
+    for x3 from
+      824
+    to
+      824 + 3
+    sum
+      for x4 from x3 to x3 + 0 sum let x5 = x3 - x2 in 780
+  )

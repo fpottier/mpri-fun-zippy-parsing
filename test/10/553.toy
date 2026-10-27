@@ -1,0 +1,17 @@
+let x0 =
+  724
+in
+(
+  let x1 =
+    fun
+    (
+      x1,
+      x2,
+      x3
+    )
+    ->
+      x0 -
+        x1 + (let x4 = x1 in let x5 = let x5 = 945 in x5 in x5 + x3)
+  in
+  668
+) + x0

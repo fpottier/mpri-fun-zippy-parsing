@@ -1,0 +1,17 @@
+for x0 from
+  766
+to
+  766 + 3
+sum
+  let x1 =
+    for x1 from
+      x0
+    to
+      x0 + 4
+    sum
+      let x2 =
+        (let x2 = let x2 = fun (x0) -> 555 in 485 in x1) * 585
+      in
+      167
+  in
+  x1 + (for x2 from x1 to x1 + 2 sum x0 + x1)

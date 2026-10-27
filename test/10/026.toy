@@ -1,0 +1,12 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      let x1 = x0 * 474 in x0
+    in
+    (let x2 = for x2 from x0 to x0 + 1 sum x2 - x2 in 162) * x1
+in
+x0(474)

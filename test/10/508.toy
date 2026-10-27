@@ -1,0 +1,13 @@
+(
+  for x0 from
+    662
+  to
+    662 + 4
+  sum
+    (
+      let x1 =
+        let x1 = let x1 = 794 in (x1 + x1) / x1 in x0
+      in
+      624 + (x1 + x1)
+    ) - x0
+) + 486

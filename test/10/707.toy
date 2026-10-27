@@ -1,0 +1,10 @@
+let x0 =
+  267 * 86 - (let x0 = 919 in x0)
+in
+x0 /
+  (
+    let x1 =
+      let x1 = fun (x1, x2, x3) -> x3 in x0
+    in
+    (785 + x0) / x1
+  )

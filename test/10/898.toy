@@ -1,0 +1,10 @@
+let x0 =
+  let x0 = 1014 - 198 in let x1 = x0 in x0
+in
+(let x1 = 779 in x0) /
+  (
+    let x1 =
+      fun (x0) -> 392
+    in
+    for x2 from x0 to x0 + 0 sum let x3 = x1(830) in x2
+  )

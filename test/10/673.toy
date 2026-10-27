@@ -1,0 +1,8 @@
+(
+  (
+    let x0 =
+      354
+    in
+    let x1 = let x1 = fun (x0, x1, x2) -> 856 in x0 in x1 - x0
+  ) + (893 - (let x0 = 408 in x0 * x0))
+) * (let x0 = 335 in 133)

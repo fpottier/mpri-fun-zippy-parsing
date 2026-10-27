@@ -1,0 +1,7 @@
+(let x0 = let x0 = 757 in x0 in x0) -
+  712 /
+    (777 + (375 + 85)) *
+    (
+      (let x0 = fun (x0) -> 268 in 709) +
+        (for x0 from 405 to 405 + 2 sum 121)
+    )

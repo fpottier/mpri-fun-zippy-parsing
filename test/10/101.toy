@@ -1,0 +1,9 @@
+(
+  189 -
+    (
+      let x0 =
+        fun (x0, x1) -> let x2 = let x2 = x0 in x2 in x0 + x0
+      in
+      300
+    )
+) / ((let x0 = 884 in x0 / 430) - 609)

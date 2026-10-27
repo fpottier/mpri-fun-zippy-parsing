@@ -1,0 +1,9 @@
+let x0 =
+  let x0 =
+    (let x0 = 456 in x0) +
+      (let x0 = fun (x0) -> 970 in 849) -
+      (for x0 from 701 to 701 + 4 sum x0)
+  in
+  let x1 = fun (x1, x2) -> x0 in let x2 = fun () -> 837 in x2()
+in
+x0

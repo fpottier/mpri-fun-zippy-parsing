@@ -1,0 +1,15 @@
+for x0 from
+  748
+to
+  748 + 4
+sum
+  let x1 =
+    let x1 =
+      fun (x1, x2) -> 837
+    in
+    for x2 from x0 to x0 + 3 sum let x3 = 284 in 154
+  in
+  let x2 =
+    x0
+  in
+  let x3 = x1 in for x4 from x3 to x3 + 0 sum x2 * 393

@@ -1,0 +1,18 @@
+let x0 =
+  426
+in
+x0 +
+  (
+    for x1 from
+      x0
+    to
+      x0 + 2
+    sum
+      (let x2 = x0 in x2) /
+        (
+          let x2 =
+            x1 - x1
+          in
+          x0 * (let x3 = for x3 from x2 to x2 + 0 sum x1 in 594)
+        )
+  )

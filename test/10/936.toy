@@ -1,0 +1,2 @@
+(let x0 = 865 in for x1 from 508 to 508 + 3 sum x0 - x1) *
+  (let x0 = 386 - ((let x0 = 84 in x0 * x0) + 858) in x0 / x0)

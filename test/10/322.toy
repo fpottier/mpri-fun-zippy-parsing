@@ -1,0 +1,7 @@
+let x0 =
+  130 - (let x0 = 226 in 402)
+in
+let x1 =
+  x0 / x0 - x0
+in
+(let x2 = 630 in x2) / x0 * (for x2 from x1 to x1 + 4 sum x0)

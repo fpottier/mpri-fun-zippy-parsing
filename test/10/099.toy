@@ -1,0 +1,8 @@
+110 +
+  (let x0 = let x0 = 348 in x0 in x0) +
+  (
+    let x0 =
+      349
+    in
+    let x1 = let x1 = x0 in let x2 = x0 + x0 in x2 in 410 + x1
+  )

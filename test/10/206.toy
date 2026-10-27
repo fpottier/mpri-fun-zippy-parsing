@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    ((let x0 = 147 in 463) + 552) / (let x0 = 862 in x0)
+  in
+  x0 + x0
+in
+(let x1 = x0 in x1) - (594 + 943)

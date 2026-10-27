@@ -1,0 +1,4 @@
+let x0 =
+  337 / 580 / 165 * (623 - 503) - 456
+in
+(let x1 = x0 in x0) * ((for x1 from x0 to x0 + 1 sum 856) * x0)

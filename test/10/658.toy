@@ -1,0 +1,13 @@
+let x0 =
+  let x0 =
+    198
+  in
+  let x1 =
+    let x1 =
+      x0
+    in
+    let x2 = let x2 = fun (x0, x1) -> 1005 in x1 in x0
+  in
+  22 * x1
+in
+let x1 = fun (x0) -> 74 in 648 / (x0 - 788)

@@ -1,0 +1,13 @@
+(let x0 = 297 in x0) -
+  (
+    let x0 =
+      let x0 =
+        fun () -> 492
+      in
+      let x1 =
+        let x1 = for x1 from 11 to 11 + 4 sum x0() + x0() in x0()
+      in
+      916
+    in
+    x0 * (for x1 from 54 to 54 + 2 sum x0)
+  )

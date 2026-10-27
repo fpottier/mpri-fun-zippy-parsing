@@ -1,0 +1,7 @@
+(
+  let x0 =
+    fun (x0, x1, x2) -> let x3 = let x3 = fun () -> x0 in x3() in x0
+  in
+  412
+) *
+  ((let x0 = 664 in let x1 = fun (x0, x1) -> 39 in 14) - 57 / 261)

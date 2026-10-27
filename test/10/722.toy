@@ -1,0 +1,15 @@
+(482 + 18) * 305 +
+  (
+    let x0 =
+      let x0 =
+        929
+      in
+      for x1 from
+        x0
+      to
+        x0 + 1
+      sum
+        let x2 = x1 in let x3 = fun (x3) -> x0 in x3(x2)
+    in
+    261
+  )

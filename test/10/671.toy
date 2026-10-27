@@ -1,0 +1,12 @@
+let x0 =
+  let x0 =
+    186
+  in
+  let x1 = 768 in let x2 = 607 in let x3 = x0 in x0 * x0
+in
+for x1 from
+  286
+to
+  286 + 4
+sum
+  let x2 = let x2 = x1 in x1 in let x3 = x1 in 778

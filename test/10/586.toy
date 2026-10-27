@@ -1,0 +1,11 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1
+  )
+  ->
+    (x0 - (let x2 = (for x2 from x0 to x0 + 0 sum x2) * x1 in x1)) /
+      (let x2 = x0 in 107 + (let x3 = x1 in x3))
+in
+389

@@ -1,0 +1,5 @@
+let x0 =
+  fun (x0) -> x0
+in
+x0(let x1 = 153 in let x2 = 541 in x2) +
+  ((for x1 from 126 to 126 + 0 sum let x2 = x1 in x2) - 719) * 412

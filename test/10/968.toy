@@ -1,0 +1,12 @@
+for x0 from
+  185
+to
+  185 + 0
+sum
+  (for x1 from x0 to x0 + 1 sum x0 + x1) *
+    (
+      x0 +
+        x0 -
+        ((let x1 = fun (x0) -> 812 in 318) - x0) *
+          (for x1 from 321 to 321 + 1 sum x1)
+    )

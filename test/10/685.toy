@@ -1,0 +1,10 @@
+let x0 =
+  606
+in
+let x1 =
+  x0
+in
+(
+  (let x2 = x1 in let x3 = fun (x0, x1) -> 842 in x2) +
+    (let x2 = for x2 from x1 to x1 + 0 sum x0 in x0)
+) * (let x2 = 278 in x2 * x2)

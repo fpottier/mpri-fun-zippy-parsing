@@ -1,0 +1,17 @@
+220 / (let x0 = fun (x0, x1) -> 451 in 284) +
+  (
+    let x0 =
+      554
+    in
+    let x1 =
+      167
+    in
+    (
+      for x2 from
+        822
+      to
+        822 + 4
+      sum
+        let x3 = let x3 = x2 in x3 in 584 * x1
+    ) + x0
+  )

@@ -1,0 +1,13 @@
+343 +
+  (
+    794 / (836 + 304) +
+      (for x0 from 237 to 237 + 1 sum x0 - x0) *
+        (
+          for x0 from
+            663
+          to
+            663 + 4
+          sum
+            (for x1 from x0 to x0 + 1 sum x0) - x0
+        )
+  )

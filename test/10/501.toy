@@ -1,0 +1,17 @@
+for x0 from
+  848
+to
+  848 + 0
+sum
+  let x1 =
+    for x1 from
+      567
+    to
+      567 + 2
+    sum
+      let x2 =
+        let x2 = fun (x0) -> 883 in 167 + x1
+      in
+      let x3 = let x3 = x1 in x2 in x0
+  in
+  for x2 from x1 to x1 + 3 sum x2 + x1

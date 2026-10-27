@@ -1,0 +1,7 @@
+(for x0 from 123 to 123 + 0 sum x0) +
+  (
+    let x0 =
+      let x0 = 769 in x0 - 837 * 219
+    in
+    let x1 = 1023 * x0 in let x2 = x1 in x2 + x0
+  )

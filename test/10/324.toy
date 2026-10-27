@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> 723
+  in
+  x0(x0(for x1 from 859 to 859 + 4 sum x0(219 + (x1 + x1))))
+in
+let x1 = fun (x1) -> x1 in x0

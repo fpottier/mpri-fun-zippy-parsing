@@ -1,0 +1,15 @@
+let x0 =
+  let x0 = let x0 = 133 in x0 in x0
+in
+let x1 =
+  380
+in
+(for x2 from 663 to 663 + 2 sum x1) -
+  (
+    for x2 from
+      996
+    to
+      996 + 2
+    sum
+      (let x3 = let x3 = x2 in x2 in x0) / x2
+  )

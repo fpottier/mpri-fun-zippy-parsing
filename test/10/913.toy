@@ -1,0 +1,3 @@
+(let x0 = fun (x0) -> 309 in 66) *
+  (let x0 = 347 + 768 in x0 + 301) -
+  (let x0 = let x0 = 628 in 688 - (let x1 = x0 in 557) in 602)

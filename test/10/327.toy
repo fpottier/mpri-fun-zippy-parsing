@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    let x0 =
+      (let x0 = 128 in x0) - 915 * (303 * 500)
+    in
+    let x1 = fun (x0) -> 949 in 581
+  in
+  x0
+in
+(let x1 = 336 in 98) / x0

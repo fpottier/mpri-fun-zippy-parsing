@@ -1,0 +1,12 @@
+(
+  let x0 =
+    for x0 from
+      130
+    to
+      130 + 4
+    sum
+      (let x1 = 696 in 69 - (let x2 = x0 in x0)) +
+        (x0 + (let x1 = for x1 from x0 to x0 + 4 sum 670 in x0))
+  in
+  x0
+) / 453

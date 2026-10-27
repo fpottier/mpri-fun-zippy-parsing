@@ -1,0 +1,17 @@
+for x0 from
+  821
+to
+  821 + 2
+sum
+  let x1 =
+    fun
+    (
+      x1
+    )
+    ->
+      let x2 =
+        x0 * x1
+      in
+      (for x3 from x0 to x0 + 0 sum x3) * (x2 / x1)
+  in
+  x0 / (232 - x0)

@@ -1,0 +1,18 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      fun
+      (
+        x1
+      )
+      ->
+        (x1 - x1) /
+          (let x2 = for x2 from 835 to 835 + 2 sum x0 + 305 in x0)
+    in
+    x0
+in
+let x1 = fun (x0, x1) -> 99 in 621

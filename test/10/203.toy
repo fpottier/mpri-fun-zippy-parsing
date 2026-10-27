@@ -1,0 +1,7 @@
+(for x0 from 251 to 251 + 4 sum x0) *
+  (
+    114 +
+      504 -
+      (let x0 = let x0 = 208 in x0 - x0 in x0) *
+        ((let x0 = 120 in 61) * 578)
+  )

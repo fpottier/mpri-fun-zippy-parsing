@@ -1,0 +1,6 @@
+let x0 =
+  418
+in
+169 *
+  (24 / (for x1 from x0 to x0 + 3 sum x1)) /
+  (let x1 = fun (x1) -> x1 in x1(let x2 = x1(x0) in 242))

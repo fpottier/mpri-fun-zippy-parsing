@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = fun (x0) -> x0 in 517
+  in
+  let x1 = fun (x1) -> 393 - 97 * x0 in x0
+) - (let x0 = 130 - 8 in x0)

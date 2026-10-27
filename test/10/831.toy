@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = let x0 = 901 in 844 in 232 + x0
+in
+let x1 =
+  fun (x1, x2) -> let x3 = x0 in x2
+in
+(x0 - 398) / (599 * x0)

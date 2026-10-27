@@ -1,0 +1,12 @@
+(
+  for x0 from
+    317
+  to
+    317 + 4
+  sum
+    let x1 =
+      fun (x1, x2) -> let x3 = fun (x3, x4) -> let x5 = x1 in x5 in x1
+    in
+    730
+) +
+  (let x0 = fun (x0) -> 832 in let x1 = 505 in let x2 = 500 in 81)

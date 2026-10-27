@@ -1,0 +1,6 @@
+(
+  let x0 =
+    981 / 185 * 934 / 968
+  in
+  299 - (let x1 = let x1 = x0 in 919 in x1)
+) - (let x0 = fun (x0, x1) -> x1 in 217)

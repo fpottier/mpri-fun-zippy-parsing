@@ -1,0 +1,10 @@
+let x0 =
+  let x0 = 357 in x0
+in
+x0 -
+  (
+    let x1 =
+      let x1 = for x1 from 907 to 907 + 3 sum x0 in x1 - x0
+    in
+    (let x2 = fun (x0) -> 108 in x0) + x1
+  ) + x0

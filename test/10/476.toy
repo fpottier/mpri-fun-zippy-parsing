@@ -1,0 +1,4 @@
+let x0 =
+  let x0 = let x0 = 735 in let x1 = x0 in 800 in x0 + 540
+in
+(let x1 = let x1 = x0 in 406 in let x2 = 258 in x2 - x1) * x0

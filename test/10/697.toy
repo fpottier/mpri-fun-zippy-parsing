@@ -1,0 +1,7 @@
+let x0 =
+  526 + (316 - (let x0 = fun (x0, x1) -> x0 in 334))
+in
+let x1 =
+  (x0 - 528) / x0
+in
+let x2 = fun (x0, x1) -> 610 in x2(463, x1)

@@ -1,0 +1,14 @@
+(let x0 = 659 in x0) +
+  (
+    (
+      let x0 =
+        19 / 900
+      in
+      for x1 from
+        579
+      to
+        579 + 0
+      sum
+        for x2 from 750 to 750 + 3 sum let x3 = x0 in x3
+    ) + (let x0 = 745 - 13 in 42)
+  )

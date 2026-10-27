@@ -1,0 +1,6 @@
+(
+  let x0 =
+    let x0 = 113 in 206
+  in
+  let x1 = x0 / x0 in let x2 = x1 + 54 in let x3 = x2 in x3
+) * (147 * (let x0 = 667 in 979))

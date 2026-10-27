@@ -1,0 +1,8 @@
+(
+  for x0 from
+    204
+  to
+    204 + 2
+  sum
+    let x1 = 175 in let x2 = let x2 = x0 - x1 in x1 in x1 + x0
+) - 117 * (746 - (75 + 253))

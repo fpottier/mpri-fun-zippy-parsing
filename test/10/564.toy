@@ -1,0 +1,7 @@
+((for x0 from 21 to 21 + 0 sum x0) + 993) /
+  (
+    let x0 =
+      fun (x0) -> let x1 = let x1 = x0 - 591 in x0 / x0 in 36
+    in
+    let x1 = x0 in 310
+  )

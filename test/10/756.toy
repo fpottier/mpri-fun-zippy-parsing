@@ -1,0 +1,13 @@
+(for x0 from 77 to 77 + 2 sum x0) *
+  (
+    933 -
+      (
+        let x0 =
+          let x0 =
+            let x0 = for x0 from 599 to 599 + 1 sum 680 in x0
+          in
+          x0 * 706
+        in
+        for x1 from x0 to x0 + 3 sum let x2 = x1 in x1
+      )
+  )

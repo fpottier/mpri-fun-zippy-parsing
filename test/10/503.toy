@@ -1,0 +1,8 @@
+let x0 =
+  let x0 =
+    (let x0 = 988 in let x1 = let x1 = x0 in x1 + 561 in x0 - x0) -
+      860
+  in
+  x0 - x0
+in
+let x1 = x0 in x1

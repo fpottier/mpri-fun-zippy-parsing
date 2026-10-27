@@ -1,0 +1,10 @@
+let x0 =
+  let x0 =
+    fun (x0, x1) -> for x2 from x1 to x1 + 2 sum let x3 = x2 in x1
+  in
+  795
+in
+let x1 =
+  let x1 = 856 in x1 - x0
+in
+let x2 = fun (x2, x3) -> x2 in 200

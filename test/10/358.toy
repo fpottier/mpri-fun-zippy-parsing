@@ -1,0 +1,10 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1
+  )
+  ->
+    let x2 = fun (x2) -> x0 in x2(x2(let x3 = 748 in x3)) / x0
+in
+701 * x0(280, 947)

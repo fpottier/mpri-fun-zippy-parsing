@@ -1,0 +1,19 @@
+(for x0 from 409 to 409 + 0 sum x0) *
+  (
+    let x0 =
+      let x0 =
+        fun (x0, x1) -> 196
+      in
+      x0(
+        let x1 =
+          fun (x0, x1, x2) -> 729
+        in
+        let x2 =
+          fun (x2, x3, x4) -> x2
+        in
+        x1(419, x1(607, 834, 454), 427),
+        998
+      )
+    in
+    168
+  )

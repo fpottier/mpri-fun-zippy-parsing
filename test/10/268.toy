@@ -1,0 +1,7 @@
+let x0 =
+  fun (x0, x1) -> 338
+in
+let x1 =
+  x0(692, 402)
+in
+x1 / x0(x0(830, x1), let x2 = fun (x2) -> x1 in x2(x0(x1, x1)))

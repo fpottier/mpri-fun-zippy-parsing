@@ -1,0 +1,13 @@
+for x0 from
+  480
+to
+  480 + 3
+sum
+  90 /
+    (
+      let x1 =
+        (for x1 from x0 to x0 + 3 sum let x2 = x1 / x1 in x0 * 799) *
+          (x0 * 588)
+      in
+      for x2 from 863 to 863 + 4 sum 968
+    )

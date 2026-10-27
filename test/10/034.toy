@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = (let x0 = 298 in x0) + 4 in 778
+  in
+  let x1 = x0 / 19 in for x2 from x1 to x1 + 2 sum x1
+in
+let x1 = x0 * x0 in x0

@@ -1,0 +1,15 @@
+340 / 941 -
+  (
+    506 / 492 -
+      (
+        let x0 =
+          let x0 = fun (x0) -> 381 in 286
+        in
+        for x1 from
+          x0
+        to
+          x0 + 4
+        sum
+          x0 + (for x2 from x1 to x1 + 1 sum x2 + x2)
+      )
+  )

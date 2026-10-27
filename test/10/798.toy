@@ -1,0 +1,8 @@
+(let x0 = 767 in let x1 = x0 in let x2 = x0 - x0 in x1) /
+  486 /
+  (
+    let x0 =
+      fun (x0, x1, x2) -> 853
+    in
+    let x1 = let x1 = 948 in 322 in for x2 from x1 to x1 + 1 sum x2
+  )

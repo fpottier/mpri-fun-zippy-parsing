@@ -1,0 +1,8 @@
+271 -
+  (
+    let x0 =
+      600 * 400
+    in
+    (651 + (let x1 = 154 in 321)) *
+      (for x1 from x0 to x0 + 4 sum (let x2 = x1 in x2) * (x1 / x0))
+  )

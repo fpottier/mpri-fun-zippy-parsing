@@ -1,0 +1,5 @@
+((for x0 from 426 to 426 + 1 sum x0) + 805) *
+  (
+    (let x0 = 356 in let x1 = x0 in 147 / 544) *
+      (for x0 from 170 to 170 + 0 sum 1000 * (212 / 73))
+  )

@@ -1,0 +1,9 @@
+(
+  for x0 from
+    102
+  to
+    102 + 0
+  sum
+    (let x1 = fun (x1, x2, x3) -> x2 in x0) -
+      (for x1 from x0 to x0 + 3 sum let x2 = 414 in x0)
+) * ((let x0 = 166 in x0 - x0) / 221)

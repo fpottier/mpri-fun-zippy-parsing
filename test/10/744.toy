@@ -1,0 +1,11 @@
+let x0 =
+  (
+    for x0 from
+      814
+    to
+      814 + 1
+    sum
+      (for x1 from x0 to x0 + 1 sum 807 - x0) * x0
+  ) / ((368 + 648) * 1011)
+in
+(for x1 from 559 to 559 + 2 sum x1) - x0

@@ -1,0 +1,6 @@
+let x0 =
+  for x0 from 684 to 684 + 1 sum 188
+in
+(for x1 from 991 to 991 + 4 sum 318 - (let x2 = x1 in x2) * 371)
+  +
+  (let x1 = 507 * (let x1 = 824 in x1) in x0)

@@ -1,0 +1,19 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    for x3 from
+      820
+    to
+      820 + 3
+    sum
+      let x4 =
+        x1
+      in
+      (let x5 = x1 in for x6 from x0 to x0 + 4 sum x2) * x2
+in
+let x1 = 62 in let x2 = let x2 = 466 in x2 in x2

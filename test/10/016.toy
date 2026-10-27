@@ -1,0 +1,8 @@
+let x0 =
+  let x0 =
+    (let x0 = (let x0 = 269 in 944) / (278 / (259 - 248)) in x0) -
+      924 * 979
+  in
+  let x1 = x0 in x1
+in
+x0

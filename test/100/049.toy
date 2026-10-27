@@ -1,0 +1,98 @@
+let x0 =
+  fun (x0, x1) -> x1 / (let x2 = x0 in x0)
+in
+let x1 =
+  fun
+  (
+    x1
+  )
+  ->
+    x0(
+      let x2 = 207 in x1,
+      x0(
+        let x2 = 469 in x2 + x1,
+        let x2 =
+          (let x2 = 131 - 877 in 790) / x0(513, x1)
+        in
+        let x3 = x2 in x2
+      ) *
+        (
+          let x2 =
+            for x2 from 958 to 958 + 3 sum let x3 = fun () -> x1 in x1
+          in
+          x0(
+            482 - (let x3 = x2 in x3),
+            let x3 =
+              x2
+            in
+            let x4 = x3 in x0(x3, (let x5 = x0 in x4) / (x2 - x3))
+          )
+        )
+    ) -
+      (
+        let x2 =
+          x0(
+            x1 * (let x2 = fun (x2) -> x1 in x1),
+            let x2 =
+              fun (x2, x3) -> x0(x3, let x4 = x2 in x2)
+            in
+            x2(
+              862 + x1,
+              let x3 =
+                let x3 =
+                  (let x3 = x1 in x3) * x0(x2(410, 793), x1)
+                in
+                x0(x0(792, let x4 = x1 in 804), x0(x1, x1))
+              in
+              x3
+            )
+          )
+        in
+        let x3 =
+          x0(
+            x2 -
+              (
+                let x3 =
+                  fun (x0, x1, x2) -> 136
+                in
+                x3(x1 + x0(x3(x2, 66, 933) + x1, x1), 455, x1)
+              ),
+            564
+          )
+        in
+        x2
+      )
+in
+(
+  let x2 =
+    x0(
+      let x2 =
+        x0(
+          x0(
+            x0(
+              let x2 = 395 in x2,
+              x0(506, let x2 = let x2 = 199 in 900 in x2)
+            ),
+            992 + (let x2 = 972 in x2)
+          ) / 6,
+          (let x2 = x0 in 154) * 598
+        )
+      in
+      814 + 983,
+      let x2 =
+        x0(334, 752)
+      in
+      let x3 = x2 in x0(x2, for x4 from x2 to x2 + 2 sum x4 / x4)
+    )
+  in
+  let x3 =
+    x2
+  in
+  let x4 = let x4 = x0(292, x2) in 228 in x0(x4 + x4, x0(x3, x4))
+) /
+  (
+    let x2 =
+      x0(71 + 2, x0(1020, 70))
+    in
+    let x3 = 132 / 360 + x2 in x2 - 928
+  )

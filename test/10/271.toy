@@ -1,0 +1,8 @@
+let x0 =
+  (let x0 = for x0 from 171 to 171 + 4 sum x0 in 632 + x0) /
+    (
+      (let x0 = fun (x0) -> 218 in 536) +
+        (776 + (for x0 from 97 to 97 + 1 sum 996))
+    )
+in
+x0

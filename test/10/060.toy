@@ -1,0 +1,7 @@
+let x0 =
+  fun (x0) -> let x1 = x0 in for x2 from x1 to x1 + 4 sum x2
+in
+let x1 =
+  x0(let x1 = 633 in x1)
+in
+let x2 = fun (x2, x3, x4) -> let x5 = x1 in x2 in x1

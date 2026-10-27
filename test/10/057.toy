@@ -1,0 +1,6 @@
+let x0 =
+  fun (x0) -> let x1 = 615 in x0
+in
+x0(
+  let x1 = 345 / 222 in x0(let x2 = x1 in let x3 = x1 in x1 - x2)
+)

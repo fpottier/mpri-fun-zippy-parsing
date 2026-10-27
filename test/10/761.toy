@@ -1,0 +1,6 @@
+(
+  let x0 =
+    fun (x0, x1, x2) -> let x3 = 918 in x2
+  in
+  x0(847, 306, 961 * (for x1 from 142 to 142 + 4 sum 12))
+) * ((let x0 = 904 - 56 in x0) - 483)

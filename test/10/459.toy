@@ -1,0 +1,13 @@
+344 +
+  (607 - 478) /
+    (
+      for x0 from
+        515
+      to
+        515 + 3
+      sum
+        let x1 =
+          let x1 = x0 in x0
+        in
+        (let x2 = let x2 = x1 in x0 in let x3 = x0 in x3) * x1
+    )

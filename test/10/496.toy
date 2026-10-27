@@ -1,0 +1,8 @@
+let x0 =
+  fun (x0) -> 882
+in
+x0(
+  (let x1 = let x1 = 735 in x1 in (let x2 = 834 in x1) * x1 * x1)
+    *
+    (905 * (886 / 876))
+)

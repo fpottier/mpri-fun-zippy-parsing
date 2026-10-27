@@ -1,0 +1,7 @@
+let x0 =
+  fun (x0) -> 806
+in
+x0(
+  (let x1 = for x1 from 489 to 489 + 2 sum x1 in x1) /
+    x0(let x1 = let x1 = x0(513) + 340 in x1 in x1)
+)

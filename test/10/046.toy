@@ -1,0 +1,14 @@
+for x0 from
+  22
+to
+  22 + 0
+sum
+  x0 *
+    (
+      (
+        let x1 =
+          for x1 from x0 to x0 + 3 sum (x1 + 231) / 355 / x0
+        in
+        x1
+      ) / (x0 + (let x1 = 234 in 454))
+    )

@@ -1,0 +1,10 @@
+let x0 =
+  let x0 = 902 in x0 / (let x1 = x0 in x1)
+in
+x0 *
+  (
+    let x1 =
+      (for x1 from x0 to x0 + 0 sum x1) / (let x1 = x0 in x0)
+    in
+    let x2 = fun (x0, x1) -> 737 in x1
+  )

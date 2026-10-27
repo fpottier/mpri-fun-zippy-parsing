@@ -1,0 +1,12 @@
+let x0 =
+  (for x0 from 658 to 658 + 2 sum x0 + 8) +
+    (
+      for x0 from
+        252
+      to
+        252 + 3
+      sum
+        let x1 = fun (x0, x1) -> 101 in 945
+    )
+in
+let x1 = fun (x1, x2) -> x2 - (let x3 = x1 in x1) in x0

@@ -1,0 +1,14 @@
+(
+  for x0 from
+    224
+  to
+    224 + 4
+  sum
+    for x1 from x0 to x0 + 1 sum let x2 = x1 in x2
+) -
+  (
+    let x0 =
+      let x0 = 408 in x0
+    in
+    let x1 = 239 in let x2 = x1 + 698 in x1
+  ) * 296

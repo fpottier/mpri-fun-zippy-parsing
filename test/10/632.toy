@@ -1,0 +1,25 @@
+for x0 from
+  900
+to
+  900 + 0
+sum
+  let x1 =
+    fun
+    (
+      x1
+    )
+    ->
+      let x2 =
+        fun
+        (
+          x2,
+          x3,
+          x4,
+          x5
+        )
+        ->
+          x0 + x4 - (let x6 = let x6 = x5 in x6 in x2)
+      in
+      x0
+  in
+  x1(x0)

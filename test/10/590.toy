@@ -1,0 +1,2 @@
+(let x0 = (for x0 from 57 to 57 + 3 sum x0 * x0) * 1004 in x0) /
+  (let x0 = let x0 = 667 in x0 + x0 in let x1 = 322 * x0 in x1)

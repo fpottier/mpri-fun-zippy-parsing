@@ -1,0 +1,14 @@
+199 /
+  (
+    let x0 =
+      609 * 665 - (for x0 from 867 to 867 + 4 sum x0)
+    in
+    (
+      for x1 from
+        x0
+      to
+        x0 + 0
+      sum
+        (let x2 = 263 in x2) * (for x2 from x0 to x0 + 0 sum x1)
+    ) * x0
+  )

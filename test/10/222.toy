@@ -1,0 +1,5 @@
+(for x0 from 787 to 787 + 0 sum 485) /
+  (
+    (let x0 = 36 - 189 - (let x0 = 399 in x0 * x0 * 514) in x0) +
+      (for x0 from 631 to 631 + 3 sum x0)
+  )

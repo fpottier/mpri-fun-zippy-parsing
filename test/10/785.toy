@@ -1,0 +1,10 @@
+218 * 344 * (970 + 66) +
+  (
+    let x0 =
+      let x0 =
+        460
+      in
+      let x1 = x0 in for x2 from x1 to x1 + 4 sum x1 * x2
+    in
+    x0
+  ) * 657

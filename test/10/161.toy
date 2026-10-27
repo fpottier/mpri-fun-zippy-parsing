@@ -1,0 +1,9 @@
+(
+  let x0 = 944 in let x1 = x0 in let x2 = fun (x0) -> 2 in x0 - x0
+) *
+  (
+    let x0 =
+      let x0 = let x0 = 339 * 946 in x0 in x0
+    in
+    let x1 = x0 in x0
+  )

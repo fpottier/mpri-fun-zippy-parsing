@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    (let x0 = 336 in let x1 = x0 in let x2 = x0 in x1) - (488 - 698)
+  in
+  let x1 = x0 in 150
+in
+let x1 = x0 in for x2 from x0 to x0 + 3 sum x1

@@ -1,0 +1,5 @@
+let x0 =
+  912 - 174 / (let x0 = 349 in x0)
+in
+(let x1 = x0 in 761) +
+  (let x1 = 871 in x1) - (let x1 = fun (x0) -> 341 in 804 * x0)

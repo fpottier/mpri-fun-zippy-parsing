@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = 247 in x0
+  in
+  (319 + x0) * (let x1 = fun (x0) -> 967 in x0)
+in
+let x1 = x0 - x0 in let x2 = x0 in let x3 = x0 in x2

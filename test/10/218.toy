@@ -1,0 +1,12 @@
+for x0 from
+  1016
+to
+  1016 + 2
+sum
+  let x1 =
+    let x1 = fun (x1) -> x0 + x1 in x1(x0)
+  in
+  let x2 =
+    let x2 = x0 in for x3 from 299 to 299 + 4 sum x0
+  in
+  x1 + x1

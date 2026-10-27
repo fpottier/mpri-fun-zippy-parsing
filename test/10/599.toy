@@ -1,0 +1,21 @@
+(
+  for x0 from
+    730
+  to
+    730 + 4
+  sum
+    for x1 from
+      x0
+    to
+      x0 + 1
+    sum
+      let x2 = fun (x0) -> 398 in let x3 = x0 in x3
+) *
+  (
+    for x0 from
+      956
+    to
+      956 + 1
+    sum
+      for x1 from x0 to x0 + 0 sum 162 - x0 + x1 / x0
+  )

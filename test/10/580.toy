@@ -1,0 +1,7 @@
+for x0 from
+  381
+to
+  381 + 1
+sum
+  (let x1 = 703 + x0 * x0 in x0) +
+    x0 - (let x1 = fun (x1, x2) -> x1 / 81 in x0) * x0

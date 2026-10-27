@@ -1,0 +1,4 @@
+let x0 =
+  263 / (let x0 = 51 in x0 - (let x1 = x0 in x0))
+in
+let x1 = fun (x1) -> 750 in let x2 = 1012 in x1(759 / x0)

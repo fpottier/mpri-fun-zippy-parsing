@@ -1,0 +1,16 @@
+let x0 =
+  let x0 = 538 in 611
+in
+(
+  let x1 =
+    fun
+    (
+      x1,
+      x2
+    )
+    ->
+      for x3 from x2 to x2 + 4 sum let x4 = fun (x4, x5) -> x3 in 900
+  in
+  x0
+) *
+  (for x1 from 930 to 930 + 2 sum let x2 = fun (x0) -> 765 in x0)

@@ -1,0 +1,7 @@
+(
+  let x0 =
+    671 *
+      (let x0 = let x0 = 74 in x0 in for x1 from x0 to x0 + 1 sum x0)
+  in
+  x0
+) + ((let x0 = fun (x0) -> 826 in 255) - 385 - 746) * 931

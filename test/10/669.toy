@@ -1,0 +1,10 @@
+let x0 =
+  207
+in
+428 /
+  (
+    let x1 =
+      let x1 = let x1 = 285 / x0 in x0 in 254 * x1
+    in
+    let x2 = fun (x2, x3) -> x1 / x3 in x1
+  )

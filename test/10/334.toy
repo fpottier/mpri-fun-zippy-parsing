@@ -1,0 +1,16 @@
+let x0 =
+  fun (x0) -> 735
+in
+x0(
+  (
+    let x1 =
+      95
+    in
+    for x2 from
+      765
+    to
+      765 + 0
+    sum
+      x2 * (let x3 = let x3 = 682 in x3 in x2)
+  ) - (let x1 = for x1 from 644 to 644 + 1 sum x1 in 203)
+)

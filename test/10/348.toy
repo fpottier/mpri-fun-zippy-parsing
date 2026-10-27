@@ -1,0 +1,7 @@
+for x0 from
+  864
+to
+  864 + 1
+sum
+  (let x1 = 642 + (let x1 = x0 in 208) in 741) /
+    (let x1 = let x1 = x0 in x0 in x1 / 286 + (let x2 = x0 in x2))

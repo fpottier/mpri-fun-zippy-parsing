@@ -1,0 +1,2 @@
+(let x0 = 432 + 371 - (let x0 = 196 in x0) in 327 + x0) *
+  (let x0 = (let x0 = 106 in x0) - 492 in x0 + x0)

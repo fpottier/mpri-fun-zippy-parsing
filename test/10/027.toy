@@ -1,0 +1,10 @@
+(let x0 = 913 - (let x0 = 59 in 313) in x0) *
+  (
+    let x0 =
+      (527 + 65) /
+        (
+          for x0 from 871 to 871 + 1 sum for x1 from 605 to 605 + 2 sum x0
+        )
+    in
+    968 * x0
+  )

@@ -1,0 +1,9 @@
+let x0 =
+  for x0 from
+    782
+  to
+    782 + 4
+  sum
+    let x1 = x0 / (x0 - x0) in let x2 = x1 in x1
+in
+let x1 = fun (x0, x1) -> 899 in x1(x0 / x0, x1(x0, 82))

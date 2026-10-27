@@ -1,0 +1,10 @@
+(let x0 = fun (x0) -> 96 in x0(263)) -
+  (for x0 from 746 to 746 + 4 sum x0 * 897) +
+  (
+    for x0 from
+      847
+    to
+      847 + 3
+    sum
+      let x1 = x0 in let x2 = x0 in let x3 = x0 in x2
+  )

@@ -1,0 +1,10 @@
+for x0 from
+  44
+to
+  44 + 0
+sum
+  let x1 =
+    200 * x0
+  in
+  (let x2 = x1 in let x3 = x0 * x2 in x2) /
+    ((let x2 = x1 in for x3 from x0 to x0 + 3 sum x0) / x0)

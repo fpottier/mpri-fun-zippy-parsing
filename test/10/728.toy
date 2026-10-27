@@ -1,0 +1,7 @@
+(
+  let x0 =
+    (let x0 = 491 - 198 in let x1 = 741 in 324) *
+      (let x0 = fun (x0) -> x0 in let x1 = 858 in x0(x1))
+  in
+  x0
+) * 47

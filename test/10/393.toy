@@ -1,0 +1,11 @@
+for x0 from
+  169
+to
+  169 + 1
+sum
+  (
+    let x1 =
+      let x1 = let x1 = x0 + x0 - (x0 - x0) in x1 in let x2 = x0 in x1
+    in
+    x1
+  ) / (for x1 from x0 to x0 + 3 sum x0)

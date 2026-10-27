@@ -1,0 +1,7 @@
+(let x0 = 713 in x0) -
+  (
+    let x0 =
+      let x0 = 380 + (for x0 from 787 to 787 + 0 sum x0) in x0 * x0
+    in
+    x0 / (let x1 = x0 in x0) * x0
+  )

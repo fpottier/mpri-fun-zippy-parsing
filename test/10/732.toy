@@ -1,0 +1,6 @@
+(
+  let x0 =
+    (let x0 = 264 / (let x0 = 695 in 566) in x0) * (347 + 558)
+  in
+  x0
+) - 338 + (let x0 = 261 in let x1 = fun (x0, x1) -> 483 in x0)

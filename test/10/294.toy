@@ -1,0 +1,13 @@
+163 +
+  (853 + 444) -
+  (
+    for x0 from
+      296
+    to
+      296 + 0
+    sum
+      let x1 =
+        x0 + 133 - (let x1 = let x1 = 942 in x0 in x0) - x0
+      in
+      482
+  )

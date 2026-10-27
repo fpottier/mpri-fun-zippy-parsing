@@ -1,0 +1,12 @@
+let x0 =
+  430 / 685
+in
+let x1 =
+  441 / x0
+in
+(let x2 = x1 in x2) *
+  (
+    (let x2 = let x2 = let x2 = fun (x0) -> 549 in x1 in 11 in 432)
+      +
+      x0
+  )

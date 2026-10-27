@@ -1,0 +1,15 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      let x1 =
+        let x1 = fun (x1, x2) -> 214 in 993
+      in
+      let x2 = x1 in x0
+    in
+    let x2 = 349 in x0
+in
+245 * (let x1 = x0 in 491)

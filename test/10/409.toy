@@ -1,0 +1,5 @@
+let x0 =
+  let x0 = fun (x0, x1, x2) -> x2 in 785 - x0(657, 634, 409)
+in
+(for x1 from 654 to 654 + 4 sum x1) +
+  x0 + (let x1 = x0 - x0 in x1)

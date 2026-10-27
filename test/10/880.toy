@@ -1,0 +1,7 @@
+325 *
+  (
+    (for x0 from 892 to 892 + 4 sum x0) -
+      (
+        for x0 from 360 to 360 + 4 sum let x1 = let x1 = x0 in x1 in x0
+      ) + (let x0 = 232 in x0) / (558 / 486)
+  )

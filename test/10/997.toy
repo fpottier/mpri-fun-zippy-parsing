@@ -1,0 +1,12 @@
+let x0 =
+  95 * 87
+in
+let x1 =
+  (
+    let x1 =
+      let x1 = let x1 = x0 in x0 in let x2 = fun (x0) -> 600 in 111
+    in
+    x0
+  ) / x0
+in
+730 - 302 + x0

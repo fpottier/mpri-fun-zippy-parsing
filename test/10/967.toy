@@ -1,0 +1,19 @@
+for x0 from
+  47
+to
+  47 + 4
+sum
+  (
+    let x1 =
+      let x1 =
+        (
+          let x1 =
+            let x1 = fun (x1, x2) -> x0 in let x2 = x0 in x2
+          in
+          1014
+        ) - (let x1 = 585 in 109)
+      in
+      x1
+    in
+    969
+  ) * 297

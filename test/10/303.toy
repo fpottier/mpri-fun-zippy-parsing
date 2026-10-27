@@ -1,0 +1,10 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    (for x1 from 291 to 291 + 1 sum x0) +
+      (let x1 = x0 in (let x2 = fun (x0) -> 672 in x1) * x0)
+in
+x0(x0(x0(151)))

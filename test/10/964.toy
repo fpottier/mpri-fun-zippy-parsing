@@ -1,0 +1,9 @@
+let x0 =
+  for x0 from
+    462
+  to
+    462 + 3
+  sum
+    let x1 = fun (x1) -> x1 - x1 in x1(let x2 = x0 in x2)
+in
+let x1 = 1015 in let x2 = let x2 = 703 in x0 in x1

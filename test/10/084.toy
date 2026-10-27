@@ -1,0 +1,9 @@
+let x0 =
+  (
+    for x0 from 783 to 783 + 4 sum let x1 = 99 in let x2 = x0 in x0
+  ) + 403 * 547
+in
+let x1 =
+  x0 * (let x1 = fun (x0, x1, x2) -> 984 in 810) / x0
+in
+x1

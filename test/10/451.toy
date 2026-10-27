@@ -1,0 +1,12 @@
+258 /
+  (
+    for x0 from
+      412
+    to
+      412 + 1
+    sum
+      let x1 =
+        let x1 = x0 in x0 / (let x2 = x1 in x1)
+      in
+      let x2 = let x2 = fun (x0, x1) -> 125 in x1 in let x3 = x1 in x2
+  ) * 290

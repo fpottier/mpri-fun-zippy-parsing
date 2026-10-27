@@ -1,0 +1,9 @@
+for x0 from
+  819
+to
+  819 + 1
+sum
+  let x1 =
+    fun (x1, x2, x3) -> let x4 = let x4 = x1 in x2 in x1
+  in
+  x1(x0, let x2 = x0 in x2, x1(184, x0, x0) / x1(x0, x0, 246))

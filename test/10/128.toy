@@ -1,0 +1,13 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    (let x3 = let x3 = 44 in 776 in let x4 = fun (x0) -> 750 in x0)
+      /
+      (let x3 = 170 in x1)
+in
+x0(x0(964, 696, 156), 922, for x1 from 329 to 329 + 0 sum 372)

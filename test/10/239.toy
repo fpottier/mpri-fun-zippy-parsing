@@ -1,0 +1,9 @@
+for x0 from
+  427
+to
+  427 + 3
+sum
+  let x1 =
+    fun (x1) -> let x2 = x0 + 262 in x2 - (x0 + x0)
+  in
+  x1(x1(x0) * x0)

@@ -1,0 +1,8 @@
+let x0 =
+  let x0 =
+    406
+  in
+  (for x1 from 875 to 875 + 0 sum 781) *
+    (42 * (let x1 = x0 in let x2 = x1 in x0))
+in
+let x1 = 1021 in x0 + (for x2 from 55 to 55 + 1 sum x2)

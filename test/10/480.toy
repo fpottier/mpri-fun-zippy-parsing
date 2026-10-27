@@ -1,0 +1,22 @@
+let x0 =
+  292
+in
+x0 +
+  (
+    let x1 =
+      fun
+      (
+        x1,
+        x2
+      )
+      ->
+        673 /
+          (
+            let x3 =
+              for x3 from x1 to x1 + 4 sum let x4 = fun () -> 645 in x3
+            in
+            let x4 = x1 in for x5 from x2 to x2 + 4 sum x0
+          )
+    in
+    x0
+  )

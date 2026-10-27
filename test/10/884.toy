@@ -1,0 +1,9 @@
+let x0 =
+  734 * 620
+in
+(
+  let x1 =
+    fun (x1) -> for x2 from x0 to x0 + 2 sum x2
+  in
+  let x2 = x1(x0) in x2
+) / (let x1 = let x1 = 480 in x0 in x0)

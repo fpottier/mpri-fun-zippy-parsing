@@ -1,0 +1,5 @@
+(let x0 = 855 in for x1 from x0 to x0 + 3 sum x0) *
+  (
+    (let x0 = 589 in let x1 = x0 in x1) +
+      (let x0 = 599 + (let x0 = 685 in x0 + x0) in 740)
+  )

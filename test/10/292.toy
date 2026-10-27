@@ -1,0 +1,12 @@
+let x0 =
+  233
+in
+let x1 =
+  fun (x1, x2, x3, x4) -> x2 - (let x5 = x3 * x3 in x1)
+in
+for x2 from
+  x0
+to
+  x0 + 1
+sum
+  x1(x2 / 752, x1(x2, x2, 760, x0), 23, x0)

@@ -1,0 +1,5 @@
+let x0 =
+  let x0 = fun () -> 981 in x0()
+in
+(let x1 = x0 - 217 in x0 / (x1 - x0)) *
+  ((let x1 = fun (x0) -> 665 in 233) / (let x1 = x0 in x1))

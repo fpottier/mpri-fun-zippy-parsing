@@ -1,0 +1,13 @@
+(
+  let x0 =
+    340
+  in
+  589 +
+    (
+      let x1 =
+        (for x1 from x0 to x0 + 2 sum x0) /
+          (let x1 = fun (x1) -> (x1 - 577) / x1 in 770)
+      in
+      x1
+    )
+) + 773

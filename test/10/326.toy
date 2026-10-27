@@ -1,0 +1,12 @@
+let x0 =
+  fun
+  (
+    x0
+  )
+  ->
+    let x1 =
+      fun (x1, x2, x3, x4) -> x2 - (let x5 = x4 in x0) - x3
+    in
+    x1(959, x0, x0 * x0, x0)
+in
+let x1 = 231 in x1

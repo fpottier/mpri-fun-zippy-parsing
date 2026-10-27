@@ -1,0 +1,14 @@
+(let x0 = 744 * (let x0 = 459 in x0) in 145) +
+  (
+    for x0 from
+      716
+    to
+      716 + 1
+    sum
+      for x1 from
+        x0
+      to
+        x0 + 1
+      sum
+        let x2 = x1 - x1 + x0 in let x3 = x0 in x2
+  )

@@ -1,0 +1,14 @@
+for x0 from
+  595
+to
+  595 + 3
+sum
+  let x1 =
+    x0 - (for x1 from 985 to 985 + 3 sum (let x2 = x0 in x2) / x0)
+  in
+  for x2 from
+    x0
+  to
+    x0 + 2
+  sum
+    x0 * (let x3 = x0 in let x4 = fun (x0) -> 427 in 158)

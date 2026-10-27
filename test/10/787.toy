@@ -1,0 +1,9 @@
+(let x0 = 935 * (let x0 = 401 in 64) in x0) *
+  (
+    (
+      let x0 =
+        let x0 = 881 / 948 in 654
+      in
+      let x1 = x0 in let x2 = 1 in x2
+    ) + 249
+  )

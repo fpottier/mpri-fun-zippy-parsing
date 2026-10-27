@@ -1,0 +1,7 @@
+(
+  let x0 =
+    (let x0 = 350 in for x1 from x0 to x0 + 1 sum 939) *
+      (let x0 = 515 in x0 / x0)
+  in
+  (let x1 = x0 in 851) * (x0 - x0)
+) / 497

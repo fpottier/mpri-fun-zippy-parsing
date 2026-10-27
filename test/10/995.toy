@@ -1,0 +1,18 @@
+let x0 =
+  fun
+  (
+    x0,
+    x1,
+    x2
+  )
+  ->
+    934 /
+      (
+        let x3 =
+          let x3 = fun (x0) -> 967 in x2
+        in
+        (let x4 = fun (x4, x5) -> x4 in x1) -
+          (let x4 = x1 in let x5 = fun (x0, x1, x2, x3) -> 468 in x2)
+      )
+in
+947

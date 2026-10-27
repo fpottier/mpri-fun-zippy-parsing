@@ -1,0 +1,10 @@
+876 -
+  (let x0 = fun (x0, x1) -> 820 in 455) /
+    (
+      (
+        let x0 =
+          fun () -> 844
+        in
+        for x1 from 31 to 31 + 3 sum let x2 = x0() in 117
+      ) * (712 + (let x0 = 961 in x0))
+    )

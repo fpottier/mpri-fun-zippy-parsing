@@ -1,0 +1,10 @@
+let x0 =
+  for x0 from 807 to 807 + 3 sum 762
+in
+(let x1 = 322 in let x2 = 49 in x1) *
+  (
+    (
+      x0 -
+        (764 - (let x1 = let x1 = fun (x0, x1, x2) -> 406 in 22 in x1))
+    ) / x0
+  )

@@ -1,0 +1,7 @@
+let x0 =
+  let x0 = 265 in 11
+in
+let x1 =
+  let x1 = let x1 = let x1 = x0 in x1 in x0 in 409 / x0
+in
+(for x2 from 1016 to 1016 + 2 sum x1) / (x1 / 487)

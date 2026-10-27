@@ -1,0 +1,16 @@
+let x0 =
+  (
+    for x0 from
+      406
+    to
+      406 + 0
+    sum
+      for x1 from
+        732
+      to
+        732 + 1
+      sum
+        let x2 = x1 * (x0 - x0) in x2 - 429 / x1
+  ) * 954
+in
+x0 / x0

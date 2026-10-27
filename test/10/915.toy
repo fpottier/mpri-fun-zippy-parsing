@@ -1,0 +1,9 @@
+(
+  let x0 =
+    fun () -> let x0 = (let x0 = fun (x0) -> 834 in 112) / 484 in x0
+  in
+  let x1 = x0() in x0()
+) +
+  (
+    let x0 = fun (x0, x1) -> 79 in let x1 = let x1 = 431 in x1 in x1
+  )

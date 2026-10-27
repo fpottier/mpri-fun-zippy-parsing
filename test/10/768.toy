@@ -1,0 +1,10 @@
+let x0 =
+  935 +
+    (
+      let x0 =
+        fun (x0) -> let x1 = fun (x0) -> 940 in x0
+      in
+      let x1 = fun (x1, x2) -> x2 in 877
+    )
+in
+for x1 from 436 to 436 + 1 sum let x2 = let x2 = x0 in x2 in x1

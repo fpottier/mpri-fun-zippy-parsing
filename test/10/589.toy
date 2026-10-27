@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    let x0 = 381 in let x1 = 103 in x0
+  in
+  (for x1 from x0 to x0 + 0 sum let x2 = 36 in x2) - 295
+in
+950 / (let x1 = x0 in x1) - x0

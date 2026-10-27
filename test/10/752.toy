@@ -1,0 +1,9 @@
+(
+  let x0 =
+    let x0 =
+      let x0 = 469 in let x1 = x0 in x1
+    in
+    let x1 = fun (x0, x1, x2) -> 112 in x0
+  in
+  let x1 = x0 in 92
+) * (let x0 = 984 in for x1 from x0 to x0 + 1 sum x1 - x1)

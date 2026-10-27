@@ -1,0 +1,116 @@
+(
+  (
+    for x0 from
+      44
+    to
+      44 + 2
+    sum
+      (for x1 from x0 to x0 + 1 sum x1) -
+        (
+          let x1 =
+            for x1 from
+              x0
+            to
+              x0 + 3
+            sum
+              let x2 =
+                (x1 / x1 + (let x2 = fun (x0, x1) -> 15 in x1)) / x1
+              in
+              (
+                let x3 =
+                  fun (x3) -> (let x4 = x3 / 307 / x0 in x0) * x2
+                in
+                x0 + (x0 + x1)
+              ) +
+                (
+                  let x3 =
+                    x0
+                  in
+                  let x4 = let x4 = x2 in let x5 = x4 in x0 in x3 - x4
+                ) * x2
+          in
+          let x2 = fun (x0) -> 204 in x1
+        )
+  ) -
+    (
+      let x0 =
+        fun
+        (
+          x0
+        )
+        ->
+          let x1 =
+            fun
+            (
+              x1
+            )
+            ->
+              let x2 =
+                x1
+              in
+              (x0 - 646) *
+                x0 /
+                (
+                  let x3 =
+                    x2 +
+                      x0 -
+                      (let x3 = x2 in let x4 = fun (x0, x1) -> 347 in 951) * x0
+                  in
+                  x3 / (let x4 = x2 in 762 * x2)
+                )
+          in
+          x1(
+            x1(
+              x1(for x2 from 437 to 437 + 4 sum x1(x2)) +
+                x1(
+                  x1(
+                    x1(
+                      (let x2 = (let x2 = x0 in 707) * 483 in x0) /
+                        x1(let x2 = x0 - 377 in 183 * x2)
+                    )
+                  )
+                )
+            )
+          )
+      in
+      (
+        let x1 =
+          566 - 887
+        in
+        let x2 =
+          for x2 from 463 to 463 + 4 sum x2
+        in
+        x1 * (let x3 = x2 in x2)
+      ) *
+        (
+          for x1 from
+            837
+          to
+            837 + 3
+          sum
+            let x2 =
+              409 + x1
+            in
+            let x3 =
+              x1 * (x1 * x1) + x1 - (x1 - 928) + x1
+            in
+            ((let x4 = fun (x0, x1, x2) -> 543 in x2) + x1) /
+              (let x4 = fun (x4) -> x1 in x1)
+        ) +
+        (
+          let x1 =
+            (let x1 = 319 in let x2 = x1 - 288 in 382) - (1018 - 375 * 237)
+          in
+          1006 / 753
+        )
+    )
+) /
+  (
+    let x0 =
+      let x0 = 569 in let x1 = x0 in x1
+    in
+    let x1 =
+      x0
+    in
+    let x2 = x0 + (let x2 = fun (x0) -> 112 in x1) in x1
+  )

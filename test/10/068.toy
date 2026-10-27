@@ -1,0 +1,7 @@
+let x0 =
+  fun (x0) -> x0
+in
+let x1 =
+  (42 / 332 - 497) * 231
+in
+let x2 = fun (x2, x3, x4, x5) -> x0(x5) in x0(x1)

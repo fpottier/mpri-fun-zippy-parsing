@@ -1,0 +1,9 @@
+(
+  let x0 =
+    let x0 =
+      let x0 = fun (x0) -> let x1 = x0 in x0 in 954
+    in
+    959 + x0
+  in
+  485
+) * (let x0 = let x0 = fun (x0) -> 791 in 958 in x0 + x0)

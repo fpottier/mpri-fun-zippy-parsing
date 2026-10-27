@@ -1,0 +1,8 @@
+let x0 =
+  let x0 =
+    202
+  in
+  (x0 + (for x1 from 572 to 572 + 2 sum x0)) *
+    (for x1 from 5 to 5 + 0 sum 771 / x1)
+in
+x0 / (let x1 = fun () -> x0 in x1())

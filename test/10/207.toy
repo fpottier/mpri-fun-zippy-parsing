@@ -1,0 +1,12 @@
+let x0 =
+  let x0 =
+    let x0 =
+      let x0 = 425 in 679
+    in
+    let x1 = 206 in let x2 = x0 in x1
+  in
+  (
+    let x1 = fun (x1, x2) -> for x3 from x2 to x2 + 4 sum x1 in 390
+  ) + x0
+in
+1014

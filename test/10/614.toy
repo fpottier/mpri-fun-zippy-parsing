@@ -1,0 +1,9 @@
+let x0 =
+  (for x0 from 608 to 608 + 2 sum x0) * (let x0 = 569 in 855 * x0)
+in
+for x1 from
+  264
+to
+  264 + 3
+sum
+  91 * (x1 + x0) + (let x2 = x0 in x2)

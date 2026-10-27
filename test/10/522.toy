@@ -1,0 +1,12 @@
+(for x0 from 997 to 997 + 1 sum x0) *
+  (let x0 = 830 in for x1 from x0 to x0 + 4 sum x0) *
+  (
+    for x0 from
+      505
+    to
+      505 + 0
+    sum
+      (let x1 = fun (x0) -> 686 in for x2 from 316 to 316 + 1 sum x2)
+        *
+        128
+  ) - 329

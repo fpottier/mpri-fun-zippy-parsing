@@ -1,0 +1,10 @@
+(let x0 = let x0 = fun (x0) -> x0 in 941 in x0 * (849 * 1012)) +
+  (
+    977 +
+      (
+        let x0 =
+          let x0 = 741 in x0
+        in
+        let x1 = fun (x0, x1) -> 861 in x0
+      )
+  )

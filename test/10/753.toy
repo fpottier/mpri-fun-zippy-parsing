@@ -1,0 +1,5 @@
+let x0 =
+  (let x0 = fun (x0) -> (let x1 = 1 in x1) - x0 in 642) -
+    (let x0 = let x0 = let x0 = 3 in x0 in x0 in x0)
+in
+x0 + x0

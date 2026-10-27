@@ -1,0 +1,13 @@
+567 * 995 +
+  (
+    let x0 =
+      170
+    in
+    let x1 =
+      let x1 = x0 in x0 - 797
+    in
+    let x2 =
+      let x2 = fun (x2) -> for x3 from 516 to 516 + 0 sum x1 in x1
+    in
+    x0
+  )

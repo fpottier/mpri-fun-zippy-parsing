@@ -1,0 +1,9 @@
+(let x0 = 506 in 0 - x0) -
+  (
+    (
+      let x0 =
+        let x0 = 539 - 30 in for x1 from x0 to x0 + 0 sum 781
+      in
+      x0
+    ) + ((let x0 = 47 in x0) + 175)
+  )

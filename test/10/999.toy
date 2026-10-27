@@ -1,0 +1,10 @@
+let x0 =
+  (let x0 = 133 in x0) -
+    (let x0 = for x0 from 144 to 144 + 0 sum x0 in x0) - 292
+in
+for x1 from
+  1014
+to
+  1014 + 3
+sum
+  let x2 = x0 in let x3 = x0 / x1 in x2

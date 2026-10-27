@@ -1,0 +1,10 @@
+let x0 =
+  fun (x0) -> (let x1 = x0 in x1) * 297
+in
+let x1 =
+  fun (x0, x1, x2) -> 811
+in
+let x2 =
+  x1(537, for x2 from 377 to 377 + 4 sum x2, 533)
+in
+x1(x0(x2), x2, 246)

@@ -1,0 +1,4 @@
+(let x0 = fun (x0, x1) -> 72 in 451) *
+  (for x0 from 405 to 405 + 1 sum let x1 = x0 / 561 + 817 in 762)
+  +
+  391 * (let x0 = fun (x0) -> 560 in 168)

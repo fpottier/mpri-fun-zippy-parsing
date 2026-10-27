@@ -1,0 +1,16 @@
+let x0 =
+  475 / 739 +
+    (
+      for x0 from
+        151
+      to
+        151 + 4
+      sum
+        let x1 =
+          fun (x0) -> 802
+        in
+        (let x2 = x0 in x0) -
+          (let x2 = 143 in (let x3 = x0 in 364) * x2)
+    )
+in
+2

@@ -1,0 +1,7 @@
+let x0 =
+  let x0 =
+    fun (x0) -> x0
+  in
+  let x1 = let x1 = fun (x1) -> x1 in 891 in x1
+in
+x0 * (972 * (for x1 from x0 to x0 + 2 sum x0) - 407)

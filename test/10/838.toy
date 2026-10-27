@@ -1,0 +1,15 @@
+let x0 =
+  for x0 from
+    755
+  to
+    755 + 0
+  sum
+    let x1 =
+      let x1 = 957 in x0
+    in
+    let x2 =
+      let x2 = x1 in x1
+    in
+    let x3 = fun (x0, x1, x2) -> 301 in x0
+in
+let x1 = let x1 = x0 * x0 in x0 in x0

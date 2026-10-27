@@ -1,0 +1,10 @@
+let x0 =
+  let x0 = fun (x0, x1) -> 887 in 64
+in
+410 -
+  (
+    let x1 =
+      (let x1 = x0 in x0) / x0 / ((let x1 = x0 in x0) + x0)
+    in
+    for x2 from x1 to x1 + 0 sum x2
+  )

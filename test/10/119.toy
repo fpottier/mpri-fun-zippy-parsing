@@ -1,0 +1,6 @@
+(
+  let x0 =
+    503 + (let x0 = fun (x0) -> let x1 = x0 in x0 in 594 + 539)
+  in
+  588 + (let x1 = x0 in x1)
+) * (1023 / 802)

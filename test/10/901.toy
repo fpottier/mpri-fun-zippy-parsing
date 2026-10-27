@@ -1,0 +1,5 @@
+let x0 =
+  (let x0 = 800 in let x1 = x0 in let x2 = 291 in x1) *
+    ((let x0 = 77 in x0) + (432 + 61))
+in
+x0 * (x0 * x0)

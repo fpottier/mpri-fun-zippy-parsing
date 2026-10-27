@@ -1,0 +1,7 @@
+(let x0 = 696 in 1000) /
+  (
+    let x0 =
+      fun (x0) -> (let x1 = x0 in let x2 = x0 in x2 + x2) + x0
+    in
+    x0(313 - 67)
+  )

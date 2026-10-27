@@ -1,0 +1,16 @@
+let x0 =
+  let x0 = fun (x0) -> 927 in 520
+in
+for x1 from
+  x0
+to
+  x0 + 3
+sum
+  let x2 =
+    let x2 =
+      x0
+    in
+    (x0 + (let x3 = x0 in x2)) *
+      (let x3 = let x3 = fun (x0, x1) -> 862 in x0 in x1)
+  in
+  973
